@@ -1,0 +1,59 @@
+# Collects Takealot prices every 6 hours, rebuilds the site and publishes it
+# to GitHub Pages. Your PC does not need to be on.
+name: Update prices and publish site
+
+on:
+  schedule:
+    - cron: "15 */6 * * *"   # every 6 hours (UTC)
+  workflow_dispatch:          # adds a manual "Run workflow" button
+  push:
+    branches: [main]
+
+permissions:
+  contents: write   # to commit the updated prices.db
+  pages: write
+  id-token: write
+
+concurrency:
+  group: update-site
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - name: Collect prices
+        if: github.event_name != 'push'
+        run: python collect.py
+        continue-on-error: true   # still publish from existing history if Takealot hiccups
+
+      - name: Save price history
+        if: github.event_name != 'push'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add prices.db
+          git diff --cached --quiet || git commit -m "Update prices [skip ci]"
+          git push
+
+      - name: Build site
+        env:
+          # Set a repository variable SITE_URL once you have a custom domain.
+          SITE_URL: ${{ vars.SITE_URL || format('https://{0}.github.io/{1}', github.repository_owner, github.event.repository.name) }}
+        run: python build_site.py --base-url "$SITE_URL"
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - uses: actions/deploy-pages@v4

@@ -1,0 +1,5 @@
+# Generated on every build (GitHub Actions rebuilds it)
+site/
+__pycache__/
+*.pyc
+.venv/

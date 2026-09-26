@@ -1,0 +1,2827 @@
+[
+  {
+    "plid": "PLID92752164",
+    "title": "Logitech M171 Wireless Mouse with USB Nano Receiver - Ambidextrous",
+    "target_price": null,
+    "category": "Computing",
+    "search_term": ""
+  },
+  {
+    "plid": "PLID93227833",
+    "title": "6L Digital Roaster Air Fryer with Paper Liners - Black",
+    "target_price": null,
+    "category": "Home & Kitchen",
+    "search_term": ""
+  },
+  {
+    "plid": "PLID94602894",
+    "title": "Volkano Punch Series 20,000mAh Certified PD 20W Fast Charging Power Bank",
+    "target_price": null,
+    "category": "Mobile & Power",
+    "search_term": ""
+  },
+  {
+    "plid": "PLID96621891",
+    "title": "JBL Wave Buds 2 True Wireless Noise Cancelling Earbuds - White",
+    "target_price": null,
+    "category": "Tech & Audio",
+    "search_term": ""
+  },
+  {
+    "plid": "PLID95926393",
+    "title": "VANOW 1.2L Leak Proof Tumbler with Handle and Straw Insulated Travel Mug",
+    "target_price": null,
+    "category": "Student Essentials",
+    "search_term": ""
+  },
+  {
+    "plid": "PLID66383997",
+    "title": "Volkano Scorpio Series True Wireless (TWS) Bluetooth Earphones with Mic",
+    "slug": "volkano-scorpio-series-true-wireless-tws-bluetooth-earphones-wit",
+    "brand": "Volkano",
+    "category": "Tech & Audio",
+    "search_term": "wireless earbuds",
+    "image": "https://media.takealot.com/covers_images/8866656559f54fc08f36241e8d736b53/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID95283397",
+    "title": "Volkano Jupiter Series (TWS) True Wireless Bluetooth Earphones",
+    "slug": "volkano-jupiter-series-tws-true-wireless-bluetooth-earphones",
+    "brand": "Volkano",
+    "category": "Tech & Audio",
+    "search_term": "wireless earbuds",
+    "image": "https://media.takealot.com/covers_images/254c3dd531db4bb899c19e2cf947b455/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID97509918",
+    "title": "Wireless Earbuds Bluetooth Headphones Bass Stereo Ear Buds Ear Pods - Black",
+    "slug": "wireless-earbuds-bluetooth-headphones-bass-stereo-ear-buds-ear-p",
+    "brand": null,
+    "category": "Tech & Audio",
+    "search_term": "wireless earbuds",
+    "image": "https://media.takealot.com/covers_images/38dd258dd429479a80a0e16b68f76196/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID101161386",
+    "title": "Skullcandy Ink'd True Wireless In-Ear Earbuds",
+    "slug": "skullcandy-ink-d-true-wireless-in-ear-earbuds",
+    "brand": "SkullCandy",
+    "category": "Tech & Audio",
+    "search_term": "wireless earbuds",
+    "image": "https://media.takealot.com/covers_images/c4e5bd1e5bc24248887fd42612857988/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID93815195",
+    "title": "soundcore R50i Smart Touch True Wireless Earbuds",
+    "slug": "soundcore-r50i-smart-touch-true-wireless-earbuds",
+    "brand": "Soundcore",
+    "category": "Tech & Audio",
+    "search_term": "wireless earbuds",
+    "image": "https://media.takealot.com/covers_images/f97b79a936af45b9a9a16afeb927a8ca/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID97461799",
+    "title": "Amplify Astro 2 Series True Wireless Earphones",
+    "slug": "amplify-astro-2-series-true-wireless-earphones",
+    "brand": "Amplify",
+    "category": "Tech & Audio",
+    "search_term": "wireless earbuds",
+    "image": "https://media.takealot.com/covers_images/edb3b82c6be64dcf872d6e2f4d08511f/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID90449135",
+    "title": "M10 TWS Wireless Bluetooth Earbuds with LED Display Charge Case",
+    "slug": "m10-tws-wireless-bluetooth-earbuds-with-led-display-charge-case",
+    "brand": null,
+    "category": "Tech & Audio",
+    "search_term": "wireless earbuds",
+    "image": "https://media.takealot.com/covers_images/cb1b95f3c7914155ab28adf668d08d09/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID96448272",
+    "title": "JBL Wave Beam 2 Active Noise Cancelling True Wireless Earbuds With Mic",
+    "slug": "jbl-wave-beam-2-active-noise-cancelling-true-wireless-earbuds-wi",
+    "brand": "JBL",
+    "category": "Tech & Audio",
+    "search_term": "wireless earbuds",
+    "image": "https://media.takealot.com/covers_images/ab9937406d32434e94b01001a9673215/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID99233207",
+    "title": "Volkano Buds X3 True Wireless Earphones with Digital ENC & Bluetooth",
+    "slug": "volkano-buds-x3-true-wireless-earphones-with-digital-enc-bluetoo",
+    "brand": "Volkano",
+    "category": "Tech & Audio",
+    "search_term": "wireless earbuds",
+    "image": "https://media.takealot.com/covers_images/fa553583163447c89d59ab5c05aa128b/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID42123841",
+    "title": "Volkano Wireless Bluetooth Headphones - Impulse Series",
+    "slug": "volkano-wireless-bluetooth-headphones-impulse-series",
+    "brand": "Volkano",
+    "category": "Tech & Audio",
+    "search_term": "bluetooth headphones",
+    "image": "https://media.takealot.com/covers_images/7d6884d9d7a04fa991777949d3fbf0e3/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID100196108",
+    "title": "Volkano Bluetooth Wireless Headphones | Phonic Series - Rose",
+    "slug": "volkano-bluetooth-wireless-headphones-phonic-series-rose",
+    "brand": "Volkano",
+    "category": "Tech & Audio",
+    "search_term": "bluetooth headphones",
+    "image": "https://media.takealot.com/covers_images/8bf5e48c22cc43079eba0aea493b0db8/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID94865042",
+    "title": "JBL Tune 520BT Wireless Bluetooth On-Ear Headphones",
+    "slug": "jbl-tune-520bt-wireless-bluetooth-on-ear-headphones",
+    "brand": "JBL",
+    "category": "Tech & Audio",
+    "search_term": "bluetooth headphones",
+    "image": "https://media.takealot.com/covers_images/3bec244de7ec4167919c17466ba924bd/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID95872444",
+    "title": "Volkano Cosmic 2.0 Series Bluetooth Headphones with Mic",
+    "slug": "volkano-cosmic-2-0-series-bluetooth-headphones-with-mic",
+    "brand": "Volkano",
+    "category": "Tech & Audio",
+    "search_term": "bluetooth headphones",
+    "image": "https://media.takealot.com/covers_images/a9273565b5f849b89b18088d08feb1c9/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID95575799",
+    "title": "P9 Wireless bluetooth headphones",
+    "slug": "p9-wireless-bluetooth-headphones",
+    "brand": null,
+    "category": "Tech & Audio",
+    "search_term": "bluetooth headphones",
+    "image": "https://media.takealot.com/covers_images/24013734c02844cd8d61c479c6b0aa5b/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID92893168",
+    "title": "Sony WH-CH520 Wireless Bluetooth On-Ear Headphones",
+    "slug": "sony-wh-ch520-wireless-bluetooth-on-ear-headphones",
+    "brand": "Sony",
+    "category": "Tech & Audio",
+    "search_term": "bluetooth headphones",
+    "image": "https://media.takealot.com/covers_images/a22c967bea074125a85cb0e3c36cb3bc/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID95323494",
+    "title": "Trihear Foldable Deep bass Wireless Bluetooth Headphones",
+    "slug": "trihear-foldable-deep-bass-wireless-bluetooth-headphones",
+    "brand": "Trihear",
+    "category": "Tech & Audio",
+    "search_term": "bluetooth headphones",
+    "image": "https://media.takealot.com/covers_images/73c05ec283804c4db136509c46c301c8/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID49300150",
+    "title": "Volkano Bluetooth Wireless Headphones | Phonic Series - Black",
+    "slug": "volkano-bluetooth-wireless-headphones-phonic-series-black",
+    "brand": "Volkano",
+    "category": "Tech & Audio",
+    "search_term": "bluetooth headphones",
+    "image": "https://media.takealot.com/covers_images/cee9a217c1fc4d2f8529c8ebd35b6ed7/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID91474320",
+    "title": "Amplify Bluetooth Over-Ear Headphones - Stellar Series",
+    "slug": "amplify-bluetooth-over-ear-headphones-stellar-series",
+    "brand": "Amplify",
+    "category": "Tech & Audio",
+    "search_term": "bluetooth headphones",
+    "image": "https://media.takealot.com/covers_images/4ce02b7f49084f94968ab188c51c9c7a/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID54852651",
+    "title": "Volkano Stun 2.0 Series Bluetooth Speaker - Black",
+    "slug": "volkano-stun-2-0-series-bluetooth-speaker-black",
+    "brand": "Volkano",
+    "category": "Tech & Audio",
+    "search_term": "bluetooth speaker",
+    "image": "https://media.takealot.com/covers_images/20b6516b11274da0b305d29c2d0574bb/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID101339063",
+    "title": "Skyworth BTS1 Portable Bluetooth Speaker with FM Radio Rechargeable",
+    "slug": "skyworth-bts1-portable-bluetooth-speaker-with-fm-radio-rechargea",
+    "brand": "Skyworth",
+    "category": "Tech & Audio",
+    "search_term": "bluetooth speaker",
+    "image": "https://media.takealot.com/covers_images/58c18bb187624e35b434f5799d6720b8/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID95395406",
+    "title": "Amplify Megavibe Series Dual 4\" Bluetooth Party Speaker",
+    "slug": "amplify-megavibe-series-dual-4-bluetooth-party-speaker",
+    "brand": "Amplify",
+    "category": "Tech & Audio",
+    "search_term": "bluetooth speaker",
+    "image": "https://media.takealot.com/covers_images/88cedfe601254efdbfec4067b08af5d1/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID95278649",
+    "title": "Volkano Mini Mamba 2.0 Portable Bluetooth Speaker with Lights & IPX5 Rating",
+    "slug": "volkano-mini-mamba-2-0-portable-bluetooth-speaker-with-lights-ip",
+    "brand": "Volkano",
+    "category": "Tech & Audio",
+    "search_term": "bluetooth speaker",
+    "image": "https://media.takealot.com/covers_images/6993bb1a8b2545108a67079d6747e33f/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID97222330",
+    "title": "Volkano Neptune Portable Bluetooth Wireless Speaker (TWS)",
+    "slug": "volkano-neptune-portable-bluetooth-wireless-speaker-tws",
+    "brand": "Volkano",
+    "category": "Tech & Audio",
+    "search_term": "bluetooth speaker",
+    "image": "https://media.takealot.com/covers_images/78f940e5df824c1ebf2f66fe97eccf8c/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID101266282",
+    "title": "Skyworth BTS2 Portable Bluetooth Speaker with Radio FM Light, Rechargeable",
+    "slug": "skyworth-bts2-portable-bluetooth-speaker-with-radio-fm-light-rec",
+    "brand": "Skyworth",
+    "category": "Tech & Audio",
+    "search_term": "bluetooth speaker",
+    "image": "https://media.takealot.com/covers_images/4d149ef5c9ee4d599e0ec4295334860e/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID101271275",
+    "title": "Skyworth Mini Soundbar Bluetooth Speaker with FM Radio and LED Lights BTS3",
+    "slug": "skyworth-mini-soundbar-bluetooth-speaker-with-fm-radio-and-led-l",
+    "brand": "Skyworth",
+    "category": "Tech & Audio",
+    "search_term": "bluetooth speaker",
+    "image": "https://media.takealot.com/covers_images/a12ef436dcf04543adc80764de994f7d/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID96315739",
+    "title": "soundcore Select 4 Go 5w Portable Waterproof Bluetooth Speaker",
+    "slug": "soundcore-select-4-go-5w-portable-waterproof-bluetooth-speaker",
+    "brand": "Soundcore",
+    "category": "Tech & Audio",
+    "search_term": "bluetooth speaker",
+    "image": "https://media.takealot.com/covers_images/229abade76c245aca542e12e345ed7f8/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID95278626",
+    "title": "Volkano Mamba 2.0 Portable Bluetooth Speaker with FM Radio & TWS Pairing",
+    "slug": "volkano-mamba-2-0-portable-bluetooth-speaker-with-fm-radio-tws-p",
+    "brand": "Volkano",
+    "category": "Tech & Audio",
+    "search_term": "bluetooth speaker",
+    "image": "https://media.takealot.com/covers_images/260d1ef89719484b8bed820698406faf/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID101107269",
+    "title": "Supersonic 2.1CH 100W Soundbar 5\" Subwoofer HDMI / BT / AUX / USB 101V",
+    "slug": "supersonic-2-1ch-100w-soundbar-5-subwoofer-hdmi-bt-aux-usb-101v",
+    "brand": "Supersonic",
+    "category": "Tech & Audio",
+    "search_term": "soundbar",
+    "image": "https://media.takealot.com/covers_images/d4ce6e412f6f40089ebbedd16bd53744/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID98666627",
+    "title": "Samsung B450F 2.1Ch 300W 3D surround Soundbar. Dolby Audio and DTS Virtual",
+    "slug": "samsung-b450f-2-1ch-300w-3d-surround-soundbar-dolby-audio-and-dt",
+    "brand": "Samsung",
+    "category": "Tech & Audio",
+    "search_term": "soundbar",
+    "image": "https://media.takealot.com/covers_images/1a1fc169e27944e08179025e8e7d5aa4/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID95800682",
+    "title": "Hisense 2.1Ch 140W Bluetooth Sound Bar with Wireless Subwoofer",
+    "slug": "hisense-2-1ch-140w-bluetooth-sound-bar-with-wireless-subwoofer",
+    "brand": "Hisense",
+    "category": "Tech & Audio",
+    "search_term": "soundbar",
+    "image": "https://media.takealot.com/covers_images/08b68779701343aeba9de84892611a93/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID99476518",
+    "title": "Samsung B400F 2.0 Ch Soundbar with built in Sub woofer",
+    "slug": "samsung-b400f-2-0-ch-soundbar-with-built-in-sub-woofer",
+    "brand": "Samsung",
+    "category": "Tech & Audio",
+    "search_term": "soundbar",
+    "image": "https://media.takealot.com/covers_images/4f96c4f742f94b0f9781a64d32e6c469/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID100473343",
+    "title": "Supersonic 2.1 120W TysonX Series Soundbar 4\"Subwoofer 3D/TV Mode/HDMI 101C",
+    "slug": "supersonic-2-1-120w-tysonx-series-soundbar-4-subwoofer-3d-tv-mod",
+    "brand": "Supersonic",
+    "category": "Tech & Audio",
+    "search_term": "soundbar",
+    "image": "https://media.takealot.com/covers_images/64a401ad4de442ccade87ff58068469e/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID101248748",
+    "title": "JVC 2.0 Portable Soundbar Rechargeable with Alarm Clock Model TH-N123",
+    "slug": "jvc-2-0-portable-soundbar-rechargeable-with-alarm-clock-model-th",
+    "brand": "JVC",
+    "category": "Tech & Audio",
+    "search_term": "soundbar",
+    "image": "https://media.takealot.com/covers_images/90f05d9879be4b769dfceffe8402162f/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID96375236",
+    "title": "Hisense 5.1Ch 580W Dolby Atmos Bluetooth Soundbar with Wireless Subwoofer",
+    "slug": "hisense-5-1ch-580w-dolby-atmos-bluetooth-soundbar-with-wireless-",
+    "brand": "Hisense",
+    "category": "Tech & Audio",
+    "search_term": "soundbar",
+    "image": "https://media.takealot.com/covers_images/30f5a8e06729491091255ea0bb1b0f02/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID98176859",
+    "title": "Omega 2.1 60W PureVibe Series Soundbar with Wired Subwoofer BT/USB/AUX 101X",
+    "slug": "omega-2-1-60w-purevibe-series-soundbar-with-wired-subwoofer-bt-u",
+    "brand": "Omega",
+    "category": "Tech & Audio",
+    "search_term": "soundbar",
+    "image": "https://media.takealot.com/covers_images/f5ffe5e24b2c4f71bcc828b90e4b44a8/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID46907298",
+    "title": "JVC 2.1 Channel Sound Bar With BT wired Subwoofer -TH-BY370",
+    "slug": "jvc-2-1-channel-sound-bar-with-bt-wired-subwoofer-th-by370",
+    "brand": "JVC",
+    "category": "Tech & Audio",
+    "search_term": "soundbar",
+    "image": "https://media.takealot.com/covers_tsins/49785223/4975769447419-1-zoom.jpg",
+    "target_price": null
+  },
+  {
+    "plid": "PLID72545490",
+    "title": "T500 Smartwatch and Fitness Tracker",
+    "slug": "t500-smartwatch-and-fitness-tracker",
+    "brand": null,
+    "category": "Tech & Audio",
+    "search_term": "smart watch",
+    "image": "https://media.takealot.com/covers_images/5af19468e5df46c49dbaff2e5bb286bb/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID71498967",
+    "title": "T500-Smart Watch Compatible with Apple and Andriod with App Connection.",
+    "slug": "t500-smart-watch-compatible-with-apple-and-andriod-with-app-conn",
+    "brand": null,
+    "category": "Tech & Audio",
+    "search_term": "smart watch",
+    "image": "https://media.takealot.com/covers_images/4bd57e47d8ec4eca9f62815670d4ff64/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID95227739",
+    "title": "Volkano Chroma Series Smartwatch with Bluetooth Calling for Android & iOS",
+    "slug": "volkano-chroma-series-smartwatch-with-bluetooth-calling-for-andr",
+    "brand": "Volkano",
+    "category": "Tech & Audio",
+    "search_term": "smart watch",
+    "image": "https://media.takealot.com/covers_images/4d51706366094f6ebf300c50b9a3fc74/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID93338510",
+    "title": "Smart Watch with Multiple Sports Modes, Blood Pressure, Heart Rate Monitor",
+    "slug": "smart-watch-with-multiple-sports-modes-blood-pressure-heart-rate",
+    "brand": null,
+    "category": "Tech & Audio",
+    "search_term": "smart watch",
+    "image": "https://media.takealot.com/covers_images/97573b23964e4e8396c936ac5cfe2e16/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID90171479",
+    "title": "T500 Smartwatch and Fitness Tracker",
+    "slug": "t500-smartwatch-and-fitness-tracker",
+    "brand": null,
+    "category": "Tech & Audio",
+    "search_term": "smart watch",
+    "image": "https://media.takealot.com/covers_images/3d6089668b4f41a990ce31da1f634de2/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID94158566",
+    "title": "T55 Pro Max Smart Watch with Earbuds & Double Strap",
+    "slug": "t55-pro-max-smart-watch-with-earbuds-double-strap",
+    "brand": null,
+    "category": "Tech & Audio",
+    "search_term": "smart watch",
+    "image": "https://media.takealot.com/covers_images/370ff0d6efed4fe8b1c628bef610fa6c/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID99959646",
+    "title": "Waterproof Sport Smartwatch with Fitness Tracker for Women & Men - black",
+    "slug": "waterproof-sport-smartwatch-with-fitness-tracker-for-women-men-b",
+    "brand": null,
+    "category": "Tech & Audio",
+    "search_term": "smart watch",
+    "image": "https://media.takealot.com/covers_images/9c089229ad0b42ee81f56edc72164292/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID91115947",
+    "title": "T500 Smartwatch and Fitness Tracker - Black",
+    "slug": "t500-smartwatch-and-fitness-tracker-black",
+    "brand": null,
+    "category": "Tech & Audio",
+    "search_term": "smart watch",
+    "image": "https://media.takealot.com/covers_images/f521304068f94a13a1039113ea77ca39/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID99861180",
+    "title": "Smart Watch Alexa for Women Men Fitness Smartwatches IP68 Waterproof-Purple",
+    "slug": "smart-watch-alexa-for-women-men-fitness-smartwatches-ip68-waterp",
+    "brand": "E T Easytao",
+    "category": "Tech & Audio",
+    "search_term": "smart watch",
+    "image": "https://media.takealot.com/covers_images/28d3ab6b620b4eeab88149758fade1a3/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID93292259",
+    "title": "Volkano Focus Series Wireless Mouse",
+    "slug": "volkano-focus-series-wireless-mouse",
+    "brand": "Volkano",
+    "category": "Computing",
+    "search_term": "wireless mouse",
+    "image": "https://media.takealot.com/covers_images/b7b499f1fb6744db8558f821ee6c15e9/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID93451702",
+    "title": "Volkano Granite Series USB-C Rechargeable Wireless Mouse",
+    "slug": "volkano-granite-series-usb-c-rechargeable-wireless-mouse",
+    "brand": "Volkano",
+    "category": "Computing",
+    "search_term": "wireless mouse",
+    "image": "https://media.takealot.com/covers_images/f724d25e52304db59e2dcbcace1b9be6/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID93451705",
+    "title": "Volkano TALC Series Wireless Mouse with DPI Adjustment",
+    "slug": "volkano-talc-series-wireless-mouse-with-dpi-adjustment",
+    "brand": "Volkano",
+    "category": "Computing",
+    "search_term": "wireless mouse",
+    "image": "https://media.takealot.com/covers_images/50015ab90b0c4f9f8ccdc7d685c43b20/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID69454668",
+    "title": "Wireless LED Rechargeable Mouse",
+    "slug": "wireless-led-rechargeable-mouse",
+    "brand": null,
+    "category": "Computing",
+    "search_term": "wireless mouse",
+    "image": "https://media.takealot.com/covers_images/020d52873efa446380738c04eae9e149/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID98433696",
+    "title": "Astrum Wireless Optical Mouse 2.4GHz 1600 DPI Silent Click - MW210",
+    "slug": "astrum-wireless-optical-mouse-2-4ghz-1600-dpi-silent-click-mw210",
+    "brand": "Astrum",
+    "category": "Computing",
+    "search_term": "wireless mouse",
+    "image": "https://media.takealot.com/covers_images/b7d713e9885547a3987193938ace286b/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID93560815",
+    "title": "Volkano Chrome Series 2.4 GHz Wireless Mouse",
+    "slug": "volkano-chrome-series-2-4-ghz-wireless-mouse",
+    "brand": "Volkano",
+    "category": "Computing",
+    "search_term": "wireless mouse",
+    "image": "https://media.takealot.com/covers_images/07084b144088453eb53195e7da2bf156/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID93006026",
+    "title": "Wireless 2.4Ghz Rechargeable RGB Gaming Mouse",
+    "slug": "wireless-2-4ghz-rechargeable-rgb-gaming-mouse",
+    "brand": "Free Wolf",
+    "category": "Computing",
+    "search_term": "wireless mouse",
+    "image": "https://media.takealot.com/covers_images/f2ff24db3dfe41eca285c08421009c64/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID94752403",
+    "title": "Dual Mode Rechargeable Silent RGB Mouse",
+    "slug": "dual-mode-rechargeable-silent-rgb-mouse",
+    "brand": null,
+    "category": "Computing",
+    "search_term": "wireless mouse",
+    "image": "https://media.takealot.com/covers_images/2a9c08d550ed43d685f2c70396dafd78/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID100610510",
+    "title": "Wireless Bluetooth Mouse Rechargeable Laptop Mice with LED",
+    "slug": "wireless-bluetooth-mouse-rechargeable-laptop-mice-with-led",
+    "brand": null,
+    "category": "Computing",
+    "search_term": "wireless mouse",
+    "image": "https://media.takealot.com/covers_images/b66084392d2a4d38a3c2bc0e720e35c9/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID72866814",
+    "title": "Redragon K62187 Key RGB Wired Mechanical Gaming keyboard",
+    "slug": "redragon-k62187-key-rgb-wired-mechanical-gaming-keyboard",
+    "brand": "Redragon",
+    "category": "Computing",
+    "search_term": "mechanical keyboard",
+    "image": "https://media.takealot.com/covers_images/a86c89a0e16a4dfbbd56abf9f1f2a476/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID73054342",
+    "title": "Redragon SURARA Mechanical Full RGB Gaming Keyboard - Black",
+    "slug": "redragon-surara-mechanical-full-rgb-gaming-keyboard-black",
+    "brand": "Redragon",
+    "category": "Computing",
+    "search_term": "mechanical keyboard",
+    "image": "https://media.takealot.com/covers_images/d5c38c10daf2408c8c38f01f48b78f0a/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID95932940",
+    "title": "ATTACK SHARK K86 87Keys Wireless Mechanical Gaming Keyboard Hot-Swappable",
+    "slug": "attack-shark-k86-87keys-wireless-mechanical-gaming-keyboard-hot-",
+    "brand": "ATTACK SHARK",
+    "category": "Computing",
+    "search_term": "mechanical keyboard",
+    "image": "https://media.takealot.com/covers_images/f362126dc8304e67a47216bcc362c5a2/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID100881478",
+    "title": "Redragon K671 104-key Full Size RGB Mechanical Gaming Keyboard",
+    "slug": "redragon-k671-104-key-full-size-rgb-mechanical-gaming-keyboard",
+    "brand": "Redragon",
+    "category": "Computing",
+    "search_term": "mechanical keyboard",
+    "image": "https://media.takealot.com/covers_images/67b1b69f67994bae9c72cecfaf8e9ff8/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID98380978",
+    "title": "K3600 Wired Mechanical Gaming Keyboard Office Keyboard - Grey Orange",
+    "slug": "k3600-wired-mechanical-gaming-keyboard-office-keyboard-grey-oran",
+    "brand": "Redisson",
+    "category": "Computing",
+    "search_term": "mechanical keyboard",
+    "image": "https://media.takealot.com/covers_images/898ec22c6bc843d09703476324336f74/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID96915022",
+    "title": "ATTACK SHARK X87 RGB Gaming Keyboard, Wireless Mechanical Keyboard Tri-Mode",
+    "slug": "attack-shark-x87-rgb-gaming-keyboard-wireless-mechanical-keyboar",
+    "brand": "ATTACK SHARK",
+    "category": "Computing",
+    "search_term": "mechanical keyboard",
+    "image": "https://media.takealot.com/covers_images/c170d3a8a3a84235bccd28afa5e1a89a/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID97222311",
+    "title": "ATTACK SHARK M86 75% Side Printed Mechanical Gaming Custom Keyboard",
+    "slug": "attack-shark-m86-75-side-printed-mechanical-gaming-custom-keyboa",
+    "brand": "ATTACK SHARK",
+    "category": "Computing",
+    "search_term": "mechanical keyboard",
+    "image": "https://media.takealot.com/covers_images/0b58cd41913f42d68db981ddfc90987b/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID101824902",
+    "title": "Gamdias Hermes E8 RGB Mechanical Gaming Keyboard",
+    "slug": "gamdias-hermes-e8-rgb-mechanical-gaming-keyboard",
+    "brand": "Gamdias",
+    "category": "Computing",
+    "search_term": "mechanical keyboard",
+    "image": "https://media.takealot.com/covers_images/5da4821124294c74aa4b190b3df46c50/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID102309649",
+    "title": "ATTACK SHARK X98 Pro Wireless Gaming Mechanical Keyboard with RGB Backlight",
+    "slug": "attack-shark-x98-pro-wireless-gaming-mechanical-keyboard-with-rg",
+    "brand": "ATTACK SHARK",
+    "category": "Computing",
+    "search_term": "mechanical keyboard",
+    "image": "https://media.takealot.com/covers_images/ac6b6941d2914b4585755dc25dca6534/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID73895683",
+    "title": "Adjustable/folding/Aluminum/Heat Dissipation/ Laptop Stand/holder - Grey",
+    "slug": "adjustable-folding-aluminum-heat-dissipation-laptop-stand-holder",
+    "brand": null,
+    "category": "Computing",
+    "search_term": "laptop stand",
+    "image": "https://media.takealot.com/covers_images/941cabaa358e42ba871b509794ba0cad/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID60868518",
+    "title": "Potable Laptop Stand for 10-15.6\" Notebook, Macbook and iPad (Silver)",
+    "slug": "potable-laptop-stand-for-10-15-6-notebook-macbook-and-ipad-silve",
+    "brand": null,
+    "category": "Computing",
+    "search_term": "laptop stand",
+    "image": "https://media.takealot.com/covers_tsins/64019836/64019836-1-zoom.jpeg",
+    "target_price": null
+  },
+  {
+    "plid": "PLID96905579",
+    "title": "10 Level Ergonomic Adjustable Laptop / Tablet & Phone Stand Holder for Desk",
+    "slug": "10-level-ergonomic-adjustable-laptop-tablet-phone-stand-holder-f",
+    "brand": null,
+    "category": "Computing",
+    "search_term": "laptop stand",
+    "image": "https://media.takealot.com/covers_images/19aed5ccc42f43fba2194daeceb52fc8/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID95525439",
+    "title": "Laptop Stand with Adjustable Height and Angle, 360 Rotation PC Stand-Large",
+    "slug": "laptop-stand-with-adjustable-height-and-angle-360-rotation-pc-st",
+    "brand": null,
+    "category": "Computing",
+    "search_term": "laptop stand",
+    "image": "https://media.takealot.com/covers_images/8c3cf0b14d414031b4ecf61072feac36/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID95856128",
+    "title": "Aluminum Laptop Stand Adjustable Tablet Notebook Holder for 16 inch Laptop",
+    "slug": "aluminum-laptop-stand-adjustable-tablet-notebook-holder-for-16-i",
+    "brand": null,
+    "category": "Computing",
+    "search_term": "laptop stand",
+    "image": "https://media.takealot.com/covers_images/2954937d0b52404f8e896e7942ec5f4c/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID97222204",
+    "title": "Laptop Stand Laptop Cooling Pad with Adjustable Height Two 5.1 Inches Fan",
+    "slug": "laptop-stand-laptop-cooling-pad-with-adjustable-height-two-5-1-i",
+    "brand": "Redisson",
+    "category": "Computing",
+    "search_term": "laptop stand",
+    "image": "https://media.takealot.com/covers_images/fe398bed66b54a53aa150fba9e13b757/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID71232028",
+    "title": "CellTime X-Stand Adjustable Aluminium Foldable Cool Portable Laptop Stand",
+    "slug": "celltime-x-stand-adjustable-aluminium-foldable-cool-portable-lap",
+    "brand": "CellTime",
+    "category": "Computing",
+    "search_term": "laptop stand",
+    "image": "https://media.takealot.com/covers_images/6fda0f4932b245c3bd10bf29c8751411/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID72012375",
+    "title": "Dmart Laptop Stand Desk for Bed & Sofa",
+    "slug": "dmart-laptop-stand-desk-for-bed-sofa",
+    "brand": null,
+    "category": "Computing",
+    "search_term": "laptop stand",
+    "image": "https://media.takealot.com/covers_images/9df0644be98e45519311750ae0cfc188/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID93033488",
+    "title": "Ergonomic Portable Laptop Stand",
+    "slug": "ergonomic-portable-laptop-stand",
+    "brand": null,
+    "category": "Computing",
+    "search_term": "laptop stand",
+    "image": "https://media.takealot.com/covers_images/3e6c889d40ba4dffbc576b7ccc7c7e43/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID70902698",
+    "title": "Multi-functional 8-in-1 USB-C Adapter Hub Docking Station -Type C Interface",
+    "slug": "multi-functional-8-in-1-usb-c-adapter-hub-docking-station-type-c",
+    "brand": null,
+    "category": "Computing",
+    "search_term": "usb c hub",
+    "image": "https://media.takealot.com/covers_images/dd523c4b75fd4fadb961df791893b6db/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID99632757",
+    "title": "Peachz 5-in-1 USB-C Adapter Hub with 4K , 100W PD & USB 3.0",
+    "slug": "peachz-5-in-1-usb-c-adapter-hub-with-4k-100w-pd-usb-3-0",
+    "brand": "PEACHZ",
+    "category": "Computing",
+    "search_term": "usb c hub",
+    "image": "https://media.takealot.com/covers_images/8379a09888904ad68dcdbcfcd95fbf34/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID95873811",
+    "title": "BezosMax 8 in 1 Multi-function USB/USB C Adapter Hub Docking Station",
+    "slug": "bezosmax-8-in-1-multi-function-usb-usb-c-adapter-hub-docking-sta",
+    "brand": "BezosMax",
+    "category": "Computing",
+    "search_term": "usb c hub",
+    "image": "https://media.takealot.com/covers_images/bee9ae02d43d44d9a012e22832289535/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID93477806",
+    "title": "UGREEN Revodok 5-in-1 Type-C Hub | 4K HDMI | Type-C | USB3.0 | USB2.0",
+    "slug": "ugreen-revodok-5-in-1-type-c-hub-4k-hdmi-type-c-usb3-0-usb2-0",
+    "brand": "UGreen",
+    "category": "Computing",
+    "search_term": "usb c hub",
+    "image": "https://media.takealot.com/covers_images/1567c0b1b98d482c8e83ba58a0540596/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID71231324",
+    "title": "UGREEN 4-in-1 Type-C Hub | USB 3.0 | Type-C",
+    "slug": "ugreen-4-in-1-type-c-hub-usb-3-0-type-c",
+    "brand": "UGreen",
+    "category": "Computing",
+    "search_term": "usb c hub",
+    "image": "https://media.takealot.com/covers_images/ebff9ba4492d406cb30ca30946b601df/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID91572176",
+    "title": "6 in 1 USB C Hub Type C Adapter with 4K TC/2USB/HDTV/TF (B3444)",
+    "slug": "6-in-1-usb-c-hub-type-c-adapter-with-4k-tc-2usb-hdtv-tf-b3444",
+    "brand": null,
+    "category": "Computing",
+    "search_term": "usb c hub",
+    "image": "https://media.takealot.com/covers_images/b7a01299bf794cccb76270b1cc8aea24/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID100230257",
+    "title": "UGREEN Uno 6-in-1 Type-C Hub with 4K HDMI, 100W PD & 10Gbps USB Ports",
+    "slug": "ugreen-uno-6-in-1-type-c-hub-with-4k-hdmi-100w-pd-10gbps-usb-por",
+    "brand": "UGreen",
+    "category": "Computing",
+    "search_term": "usb c hub",
+    "image": "https://media.takealot.com/covers_images/6d706515b9cd404f82c0356ea4777d03/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID98067567",
+    "title": "100W USB C Hub 10 in 1 with 4K HDMI USB 3.0 Rj45 SD/TF for Laptop & Macbook",
+    "slug": "100w-usb-c-hub-10-in-1-with-4k-hdmi-usb-3-0-rj45-sd-tf-for-lapto",
+    "brand": null,
+    "category": "Computing",
+    "search_term": "usb c hub",
+    "image": "https://media.takealot.com/covers_images/0a23050ccb354706b4419028de35a5b1/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID95684202",
+    "title": "Volkano Expand Series 7 in 1 Type C Hub Multi Function USB Adapter",
+    "slug": "volkano-expand-series-7-in-1-type-c-hub-multi-function-usb-adapt",
+    "brand": "Volkano",
+    "category": "Computing",
+    "search_term": "usb c hub",
+    "image": "https://media.takealot.com/covers_images/852be41ec3be4e82b8a415d0ae9a7b82/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID93812969",
+    "title": "Lexar 1TB SL200 Portable USB 3.1 SSD",
+    "slug": "lexar-1tb-sl200-portable-usb-3-1-ssd",
+    "brand": "Lexar",
+    "category": "Computing",
+    "search_term": "external ssd",
+    "image": "https://media.takealot.com/covers_images/8f30aca5555a4e97adfcec13f394e3ff/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID100398641",
+    "title": "Solid State Drive (SSD) 2TB Large Capacity",
+    "slug": "solid-state-drive-ssd-2tb-large-capacity",
+    "brand": null,
+    "category": "Computing",
+    "search_term": "external ssd",
+    "image": "https://media.takealot.com/covers_images/2f0d1f94215b4f58a6dd92bc62428c0c/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID98879619",
+    "title": "Kioxia Exceria Plus G2 Portable SSD - 1TB",
+    "slug": "kioxia-exceria-plus-g2-portable-ssd-1tb",
+    "brand": "Kioxia",
+    "category": "Computing",
+    "search_term": "external ssd",
+    "image": "https://media.takealot.com/covers_images/3bf7f0c7559140ddba58f91e0942d0e5/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID91475824",
+    "title": "Hikvision 1024GB Solid State Disk Drive, USB3.1 Type C Portable SSD",
+    "slug": "hikvision-1024gb-solid-state-disk-drive-usb3-1-type-c-portable-s",
+    "brand": "Hikvision",
+    "category": "Computing",
+    "search_term": "external ssd",
+    "image": "https://media.takealot.com/covers_images/0662ba0ce23e431397ada857df7bf3a9/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID100159968",
+    "title": "Portable 1TB 2TB External Hard Disk 4TB SSD USB 3.1 for Laptop/PC/Phones",
+    "slug": "portable-1tb-2tb-external-hard-disk-4tb-ssd-usb-3-1-for-laptop-p",
+    "brand": null,
+    "category": "Computing",
+    "search_term": "external ssd",
+    "image": "https://media.takealot.com/covers_images/e80de4acc8c74d1f9126b349d560a5bc/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID91272514",
+    "title": "HIKVISION T100I Series Portable External SSD 128GB",
+    "slug": "hikvision-t100i-series-portable-external-ssd-128gb",
+    "brand": "Hikvision",
+    "category": "Computing",
+    "search_term": "external ssd",
+    "image": "https://media.takealot.com/covers_images/9409184f406f424eb253016a22374cf8/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID99220512",
+    "title": "Portable SSD 16TB High Speed External Hard Drive USB 3.2 Fast Type-C HD",
+    "slug": "portable-ssd-16tb-high-speed-external-hard-drive-usb-3-2-fast-ty",
+    "brand": null,
+    "category": "Computing",
+    "search_term": "external ssd",
+    "image": "https://media.takealot.com/covers_images/848bb579f7ab4553bd717a482f743e60/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID91257570",
+    "title": "Hiksemi -512GB Portable External Solid State Disk Drive, USB 3.0 Type C",
+    "slug": "hiksemi-512gb-portable-external-solid-state-disk-drive-usb-3-0-t",
+    "brand": "Hikvision",
+    "category": "Computing",
+    "search_term": "external ssd",
+    "image": "https://media.takealot.com/covers_images/323847b88f1242098435a4ee7bd4b222/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID99946692",
+    "title": "Portable 1/2/4TB High-Speed Hard Drive SSD for Mobile Phone/Laptop/Mac",
+    "slug": "portable-1-2-4tb-high-speed-hard-drive-ssd-for-mobile-phone-lapt",
+    "brand": null,
+    "category": "Computing",
+    "search_term": "external ssd",
+    "image": "https://media.takealot.com/covers_images/1c618211d44240679c2cae1558a5da30/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID95322433",
+    "title": "WINX DO Simple Full HD 1080P Webcam",
+    "slug": "winx-do-simple-full-hd-1080p-webcam",
+    "brand": "WINX",
+    "category": "Computing",
+    "search_term": "webcam",
+    "image": "https://media.takealot.com/covers_images/ebcf2142530e46e0ab842f80b65ac57e/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID94054259",
+    "title": "Logitech Brio 100 Full HD Webcam",
+    "slug": "logitech-brio-100-full-hd-webcam",
+    "brand": "Logitech",
+    "category": "Computing",
+    "search_term": "webcam",
+    "image": "https://media.takealot.com/covers_images/9546cddb430341f594409462baeb13a3/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID97280359",
+    "title": "ASTER-1080P Mini USB High Definition Microphone Network Camera Webcam",
+    "slug": "aster-1080p-mini-usb-high-definition-microphone-network-camera-w",
+    "brand": null,
+    "category": "Computing",
+    "search_term": "webcam",
+    "image": "https://media.takealot.com/covers_images/2d54aec57aef4022a45946276d17b5ad/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID70728634",
+    "title": "HD 1080P Webcam Computer PC WebCam for live Video Calling Conference Work",
+    "slug": "hd-1080p-webcam-computer-pc-webcam-for-live-video-calling-confer",
+    "brand": null,
+    "category": "Computing",
+    "search_term": "webcam",
+    "image": "https://media.takealot.com/covers_images/32592e5ae4934eaa87dff903aa6f9f12/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID95491724",
+    "title": "FOSCAM 1080P HD USB Streaming Web Cam for Conference, Gaming, Business",
+    "slug": "foscam-1080p-hd-usb-streaming-web-cam-for-conference-gaming-busi",
+    "brand": "Foscam",
+    "category": "Computing",
+    "search_term": "webcam",
+    "image": "https://media.takealot.com/covers_images/362340bdb02d4ef7a2d62db29201bdf3/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID97002959",
+    "title": "D.Vice W27 USB Web Cam - HD, Drive-Free, Built-In Mic, UVC Compatible",
+    "slug": "d-vice-w27-usb-web-cam-hd-drive-free-built-in-mic-uvc-compatible",
+    "brand": "D.VICE",
+    "category": "Computing",
+    "search_term": "webcam",
+    "image": "https://media.takealot.com/covers_images/b706d1e80bdf443b95f35dd411844522/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID98958138",
+    "title": "Webcam with Microphone 1080P With Usb For PC and laptop",
+    "slug": "webcam-with-microphone-1080p-with-usb-for-pc-and-laptop",
+    "brand": null,
+    "category": "Computing",
+    "search_term": "webcam",
+    "image": "https://media.takealot.com/covers_images/168a79ebefb442c7823529976f1c2170/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID102385010",
+    "title": "Vizia QHD Ring Light Webcam | Autofocus & Mic | 5MP",
+    "slug": "vizia-qhd-ring-light-webcam-autofocus-mic-5mp",
+    "brand": "Vizia",
+    "category": "Computing",
+    "search_term": "webcam",
+    "image": "https://media.takealot.com/covers_images/ac34c8652f2f40959e3d98f94257ed1f/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID90997239",
+    "title": "Hikvision 1080p HD USB 2.0 2MP DS-U02 Web Camera",
+    "slug": "hikvision-1080p-hd-usb-2-0-2mp-ds-u02-web-camera",
+    "brand": "Hikvision",
+    "category": "Computing",
+    "search_term": "webcam",
+    "image": "https://media.takealot.com/covers_images/4db088de84044ffd9b1bbd28f3a9fe3a/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID96452941",
+    "title": "20000mAh Dual USB Portable Power Bank, LED Power Display",
+    "slug": "20000mah-dual-usb-portable-power-bank-led-power-display",
+    "brand": "Redisson",
+    "category": "Mobile & Power",
+    "search_term": "power bank",
+    "image": "https://media.takealot.com/covers_images/33a7a5e415b74af5b24d2d69ae97ac06/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID95799201",
+    "title": "WINX GO Simple 10,000mAh Power Bank",
+    "slug": "winx-go-simple-10-000mah-power-bank",
+    "brand": "WINX",
+    "category": "Mobile & Power",
+    "search_term": "power bank",
+    "image": "https://media.takealot.com/covers_images/77fd0368bba64a5885bc1dbd1c8b16a7/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID95911017",
+    "title": "SUPA FLY 5,000mAh LED Display Power Bank",
+    "slug": "supa-fly-5-000mah-led-display-power-bank",
+    "brand": "SUPA FLY",
+    "category": "Mobile & Power",
+    "search_term": "power bank",
+    "image": "https://media.takealot.com/covers_images/5b0453153b19479e9d2f4756beceecf5/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID94864401",
+    "title": "Volkano Roma Series 10000mAh P.D. 20W Power Bank",
+    "slug": "volkano-roma-series-10000mah-p-d-20w-power-bank",
+    "brand": "Volkano",
+    "category": "Mobile & Power",
+    "search_term": "power bank",
+    "image": "https://media.takealot.com/covers_images/438fd4c6d2744cd192357f2b67fde4f3/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID96304066",
+    "title": "PD605 - 40,000mAh Fast Charging Power Bank - Black",
+    "slug": "pd605-40-000mah-fast-charging-power-bank-black",
+    "brand": "Redisson",
+    "category": "Mobile & Power",
+    "search_term": "power bank",
+    "image": "https://media.takealot.com/covers_images/18773d97eb5a46bca09593b781db154e/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID96302409",
+    "title": "Convenient for going out 10000mAh Power Bank With charging cable",
+    "slug": "convenient-for-going-out-10000mah-power-bank-with-charging-cable",
+    "brand": "Redisson",
+    "category": "Mobile & Power",
+    "search_term": "power bank",
+    "image": "https://media.takealot.com/covers_images/2908ea6b1d6f4d96ac571cce712ad395/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID94603453",
+    "title": "Volkano Punch Series 5000mAh Power Bank",
+    "slug": "volkano-punch-series-5000mah-power-bank",
+    "brand": "Volkano",
+    "category": "Mobile & Power",
+    "search_term": "power bank",
+    "image": "https://media.takealot.com/covers_images/45370683ad514785a48862abec548b40/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID101369194",
+    "title": "Supa Fly 10 000mAh Fast Charge Powerbank | 22.5w Dual Device | Black",
+    "slug": "supa-fly-10-000mah-fast-charge-powerbank-22-5w-dual-device-black",
+    "brand": "SUPA FLY",
+    "category": "Mobile & Power",
+    "search_term": "power bank",
+    "image": "https://media.takealot.com/covers_images/de878904fc1a4fdf9261eef0940a9ca6/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID93060394",
+    "title": "Redisson 40000mAh Power Bank 22.5W PD Fast Charging with LED Light",
+    "slug": "redisson-40000mah-power-bank-22-5w-pd-fast-charging-with-led-lig",
+    "brand": "Redisson",
+    "category": "Mobile & Power",
+    "search_term": "power bank",
+    "image": "https://media.takealot.com/covers_images/f77c2e4ee6054df79d37ef4589bc099c/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID93099810",
+    "title": "Fast Charger - Type-C Cable and Adapter - Compatible With Android",
+    "slug": "fast-charger-type-c-cable-and-adapter-compatible-with-android",
+    "brand": null,
+    "category": "Mobile & Power",
+    "search_term": "fast charger",
+    "image": "https://media.takealot.com/covers_images/f7408fb3b7a2420aba36293c6157bf68/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID93191507",
+    "title": "Super Fast 65W PD Power Adapter Trio Charger",
+    "slug": "super-fast-65w-pd-power-adapter-trio-charger",
+    "brand": null,
+    "category": "Mobile & Power",
+    "search_term": "fast charger",
+    "image": "https://media.takealot.com/covers_images/0eac2bdc39f647ec957d7709f8f14eb2/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID91974312",
+    "title": "25W USB-C Fast Charging Adapter and Lightning Cable Compatible With Iphones",
+    "slug": "25w-usb-c-fast-charging-adapter-and-lightning-cable-compatible-w",
+    "brand": null,
+    "category": "Mobile & Power",
+    "search_term": "fast charger",
+    "image": "https://media.takealot.com/covers_images/cd8ac9f62bbc402da70b9b27e2b64e12/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID90807249",
+    "title": "Super Fast 45W Charging Wall Charger & Type C to Type C Cable - Black",
+    "slug": "super-fast-45w-charging-wall-charger-type-c-to-type-c-cable-blac",
+    "brand": "H-Tech",
+    "category": "Mobile & Power",
+    "search_term": "fast charger",
+    "image": "https://media.takealot.com/covers_images/7195d7c502c34c69ae90487eb99630da/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID92857803",
+    "title": "65W PD Fast Charging Charger - 3USB Ports/2 Type C - White",
+    "slug": "65w-pd-fast-charging-charger-3usb-ports-2-type-c-white",
+    "brand": null,
+    "category": "Mobile & Power",
+    "search_term": "fast charger",
+    "image": "https://media.takealot.com/covers_images/08335af6844e42f0984ddbbb2ccd9b08/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID97265609",
+    "title": "TechZA 45W Type C Super-Fast Charger Compatible with Samsung, iPhone -TZC05",
+    "slug": "techza-45w-type-c-super-fast-charger-compatible-with-samsung-iph",
+    "brand": "TechZA",
+    "category": "Mobile & Power",
+    "search_term": "fast charger",
+    "image": "https://media.takealot.com/covers_images/2be0d9c6c6994f8c848a6af2fe3a0c5e/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID102009812",
+    "title": "PEACHZ 65W Mini GaN USB-C PD Charger Compatible with iPhone & Samsung",
+    "slug": "peachz-65w-mini-gan-usb-c-pd-charger-compatible-with-iphone-sams",
+    "brand": "PEACHZ",
+    "category": "Mobile & Power",
+    "search_term": "fast charger",
+    "image": "https://media.takealot.com/covers_images/2a22d0f848304fab8200b81e1c882b5d/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID98962676",
+    "title": "45W Super Fast Charger with Cable For Type-C Phones White GE",
+    "slug": "45w-super-fast-charger-with-cable-for-type-c-phones-white-ge",
+    "brand": null,
+    "category": "Mobile & Power",
+    "search_term": "fast charger",
+    "image": "https://media.takealot.com/covers_images/43288d3d8b374519809f93221855db93/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID101189469",
+    "title": "120W Fast Charger Dual USB-C + USB-A GaN Wall Charger for Phones Tablets",
+    "slug": "120w-fast-charger-dual-usb-c-usb-a-gan-wall-charger-for-phones-t",
+    "brand": null,
+    "category": "Mobile & Power",
+    "search_term": "fast charger",
+    "image": "https://media.takealot.com/covers_images/bd7655b7e9b944ae9846981c87e1a50d/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID98874222",
+    "title": "Clear MagSafe Case Compatible with Samsung A06 Magnetic Shockproof Cover",
+    "slug": "clear-magsafe-case-compatible-with-samsung-a06-magnetic-shockpro",
+    "brand": null,
+    "category": "Mobile & Power",
+    "search_term": "phone case samsung",
+    "image": "https://media.takealot.com/covers_images/2999f37a6d7e4234be7d33a92a5809f2/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID99466626",
+    "title": "2 Pack silicone case compatible with Samsung A05s - Black & Neon Pink",
+    "slug": "2-pack-silicone-case-compatible-with-samsung-a05s-black-neon-pin",
+    "brand": null,
+    "category": "Mobile & Power",
+    "search_term": "phone case samsung",
+    "image": "https://media.takealot.com/covers_images/53314f22fa95484ba4d4fba6696349ee/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID96998380",
+    "title": "TPU Crystal Clear Phone Case And Tempered Glass Compatible with Galaxy A06",
+    "slug": "tpu-crystal-clear-phone-case-and-tempered-glass-compatible-with-",
+    "brand": null,
+    "category": "Mobile & Power",
+    "search_term": "phone case samsung",
+    "image": "https://media.takealot.com/covers_images/9a25063a873b4f1bb6e964f6d673487c/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID99212381",
+    "title": "Magsafe Clear Case Magnetic Back Cover Compatible with Samsung Galaxy A16",
+    "slug": "magsafe-clear-case-magnetic-back-cover-compatible-with-samsung-g",
+    "brand": "Unbranded",
+    "category": "Mobile & Power",
+    "search_term": "phone case samsung",
+    "image": "https://media.takealot.com/covers_images/8dfa8fdadbae4e378fbd28e641d50c57/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID92347591",
+    "title": "Silicone Phone Case Compatible For Samsung Galaxy A32 4G",
+    "slug": "silicone-phone-case-compatible-for-samsung-galaxy-a32-4g",
+    "brand": null,
+    "category": "Mobile & Power",
+    "search_term": "phone case samsung",
+    "image": "https://media.takealot.com/covers_images/5cff1bac79004e08af4775f82ee95157/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID98888389",
+    "title": "TPU Silicone Phone Case Cover Compatible with Samsung Galaxy A06 (Black)",
+    "slug": "tpu-silicone-phone-case-cover-compatible-with-samsung-galaxy-a06",
+    "brand": null,
+    "category": "Mobile & Power",
+    "search_term": "phone case samsung",
+    "image": "https://media.takealot.com/covers_images/cbacbf03c4504f768859cc37783f20f6/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID94065112",
+    "title": "Shockproof Clear Case Pouch and 9D Tempered Glass Protector for Samsung A34",
+    "slug": "shockproof-clear-case-pouch-and-9d-tempered-glass-protector-for-",
+    "brand": "Screen Guard World",
+    "category": "Mobile & Power",
+    "search_term": "phone case samsung",
+    "image": "https://media.takealot.com/covers_images/115e8e3ccbcf4ac484c466a2f98e83a3/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID96999509",
+    "title": "Liquid Silicone Back Case For Samsung Galaxy A14- Plum",
+    "slug": "liquid-silicone-back-case-for-samsung-galaxy-a14-plum",
+    "brand": null,
+    "category": "Mobile & Power",
+    "search_term": "phone case samsung",
+    "image": "https://media.takealot.com/covers_images/422a8d417d1d4d888868d52dd390fc1c/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID99417547",
+    "title": "Silicone Back Cover Compatible With Samsung Galaxy A16 - Phone Back Case",
+    "slug": "silicone-back-cover-compatible-with-samsung-galaxy-a16-phone-bac",
+    "brand": null,
+    "category": "Mobile & Power",
+    "search_term": "phone case samsung",
+    "image": "https://media.takealot.com/covers_images/199e644512a6480d89ca37f0513c9f58/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID92553156",
+    "title": "iPhone 11 Privacy Tempered Glass Anti Spy Screen Protector Pack of 2",
+    "slug": "iphone-11-privacy-tempered-glass-anti-spy-screen-protector-pack-",
+    "brand": null,
+    "category": "Mobile & Power",
+    "search_term": "screen protector",
+    "image": "https://media.takealot.com/covers_images/bc846d1763d84ffe8df12c0cbd57228b/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID92916799",
+    "title": "2 PACK iPhone 13 Screen Protector Guard Tempered Glass",
+    "slug": "2-pack-iphone-13-screen-protector-guard-tempered-glass",
+    "brand": null,
+    "category": "Mobile & Power",
+    "search_term": "screen protector",
+    "image": "https://media.takealot.com/covers_images/3928ea4f66ae47208b2e88e22d653af9/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID92556167",
+    "title": "iPhone 13 Privacy Tempered Glass Anti Spy Screen Protector Pack of 2",
+    "slug": "iphone-13-privacy-tempered-glass-anti-spy-screen-protector-pack-",
+    "brand": null,
+    "category": "Mobile & Power",
+    "search_term": "screen protector",
+    "image": "https://media.takealot.com/covers_images/804074bb3dd14682821b3f31de834002/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID99153459",
+    "title": "Privacy Tempered Glass Screen Protector Compatible with iPhone 11 (Pack-2)",
+    "slug": "privacy-tempered-glass-screen-protector-compatible-with-iphone-1",
+    "brand": null,
+    "category": "Mobile & Power",
+    "search_term": "screen protector",
+    "image": "https://media.takealot.com/covers_images/0df4318162784df9ad1f50ebf911676e/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID99760028",
+    "title": "ORRO Screen Protector Compatible with iPhone 17/Air/Pro/Pro Max - Glass",
+    "slug": "orro-screen-protector-compatible-with-iphone-17-air-pro-pro-max-",
+    "brand": "ORRO",
+    "category": "Mobile & Power",
+    "search_term": "screen protector",
+    "image": "https://media.takealot.com/covers_images/73a2d0a4416c4bb3a5aaf8504eedfeb1/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID98946226",
+    "title": "Anti Spy Privacy Tempered Glass Screen Protector Compatible with iPhone 15",
+    "slug": "anti-spy-privacy-tempered-glass-screen-protector-compatible-with",
+    "brand": null,
+    "category": "Mobile & Power",
+    "search_term": "screen protector",
+    "image": "https://media.takealot.com/covers_images/8939a4974d5b4c4fa3bed94e886d1ec4/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID92558459",
+    "title": "iPhone 14 Privacy Tempered Glass Anti Spy Screen Protector Pack of 2",
+    "slug": "iphone-14-privacy-tempered-glass-anti-spy-screen-protector-pack-",
+    "brand": null,
+    "category": "Mobile & Power",
+    "search_term": "screen protector",
+    "image": "https://media.takealot.com/covers_images/804074bb3dd14682821b3f31de834002/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID94059271",
+    "title": "Anti Spy Privacy Screen Guard Protector Glass compatible with iPhone 15",
+    "slug": "anti-spy-privacy-screen-guard-protector-glass-compatible-with-ip",
+    "brand": "Screen Guard World",
+    "category": "Mobile & Power",
+    "search_term": "screen protector",
+    "image": "https://media.takealot.com/covers_images/b2e0aefef11b4f5687709fcab1b3ad0f/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID100398956",
+    "title": "HD Tempered Glass Screen Protector Compatible with iPad A16 11th Gen 11",
+    "slug": "hd-tempered-glass-screen-protector-compatible-with-ipad-a16-11th",
+    "brand": null,
+    "category": "Mobile & Power",
+    "search_term": "screen protector",
+    "image": "https://media.takealot.com/covers_images/ab8b95a7039f48d78988f4177a1a23cf/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID99581755",
+    "title": "Amplify Voltix Series 12W Dual Port Car Charger - Type-C & USB-C + USB-A",
+    "slug": "amplify-voltix-series-12w-dual-port-car-charger-type-c-usb-c-usb",
+    "brand": "Amplify",
+    "category": "Mobile & Power",
+    "search_term": "car charger",
+    "image": "https://media.takealot.com/covers_images/a9f3c161000142fca8633f4e2787e4f6/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID95187286",
+    "title": "Volkano Shift Pro Car Fast Charger 30W PD USB-C + 18W USB-A - Fast Charging",
+    "slug": "volkano-shift-pro-car-fast-charger-30w-pd-usb-c-18w-usb-a-fast-c",
+    "brand": "Volkano",
+    "category": "Mobile & Power",
+    "search_term": "car charger",
+    "image": "https://media.takealot.com/covers_images/38312a9b19c14e3fb0827db58556c0f0/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID93931767",
+    "title": "Yesido Super Fast Charging 60W Car Charger With Dual USB Type-C Cable - Y55",
+    "slug": "yesido-super-fast-charging-60w-car-charger-with-dual-usb-type-c-",
+    "brand": "Yesido",
+    "category": "Mobile & Power",
+    "search_term": "car charger",
+    "image": "https://media.takealot.com/covers_images/943aaf0f6fdc4943bfb77d481327975c/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID99581756",
+    "title": "Amplify Volto Series Dual Car Charger 32W (Type-C + USB) - Black",
+    "slug": "amplify-volto-series-dual-car-charger-32w-type-c-usb-black",
+    "brand": "Amplify",
+    "category": "Mobile & Power",
+    "search_term": "car charger",
+    "image": "https://media.takealot.com/covers_images/41cfbd88ed9148c6b091ab0bc0183325/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID93942358",
+    "title": "Yesido 60W Super Fast With Type-c And Usb Port Car Charger Y55-EM",
+    "slug": "yesido-60w-super-fast-with-type-c-and-usb-port-car-charger-y55-e",
+    "brand": "Yesido",
+    "category": "Mobile & Power",
+    "search_term": "car charger",
+    "image": "https://media.takealot.com/covers_images/5e6266e2965143d3828a08c0731b34f5/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID100472573",
+    "title": "90W USB C Car Charger, 4-Port Fast Charging Adapter",
+    "slug": "90w-usb-c-car-charger-4-port-fast-charging-adapter",
+    "brand": null,
+    "category": "Mobile & Power",
+    "search_term": "car charger",
+    "image": "https://media.takealot.com/covers_images/4d20bd3a2d3c4b0cb125e9f73f94d6b4/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID95727295",
+    "title": "Car Charger Fast Charging PD & QC 3.0 Cigarette Lighter USB Type C 38W",
+    "slug": "car-charger-fast-charging-pd-qc-3-0-cigarette-lighter-usb-type-c",
+    "brand": null,
+    "category": "Mobile & Power",
+    "search_term": "car charger",
+    "image": "https://media.takealot.com/covers_images/fdc37e09836548cd95cf29fb4dcf7bcd/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID93508439",
+    "title": "Peachz 72W USB-C Car Charger Adapter - Dual Port PD & QC Fast Car Charger",
+    "slug": "peachz-72w-usb-c-car-charger-adapter-dual-port-pd-qc-fast-car-ch",
+    "brand": "PEACHZ",
+    "category": "Mobile & Power",
+    "search_term": "car charger",
+    "image": "https://media.takealot.com/covers_images/edae3f3e4f474880aaca37a88398aaf2/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID91335773",
+    "title": "PEACHZ-USB C Car Charger,48W iPhone Car Charger Fast Charging Adapter PD&QC",
+    "slug": "peachz-usb-c-car-charger-48w-iphone-car-charger-fast-charging-ad",
+    "brand": "PEACHZ",
+    "category": "Mobile & Power",
+    "search_term": "car charger",
+    "image": "https://media.takealot.com/covers_images/6e70e2386176454299f961e0a4e778ed/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID98945485",
+    "title": "Russell Hobbs Digital 9L Air Fryer - RHAF09S",
+    "slug": "russell-hobbs-digital-9l-air-fryer-rhaf09s",
+    "brand": "Russell Hobbs",
+    "category": "Home & Kitchen",
+    "search_term": "air fryer",
+    "image": "https://media.takealot.com/covers_images/5c8058bc304740c2a9cb18919b56228a/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID100270234",
+    "title": "Hisense 12L 1700W Dual Control Air Fryer with Visible Window- Black",
+    "slug": "hisense-12l-1700w-dual-control-air-fryer-with-visible-window-bla",
+    "brand": "Hisense",
+    "category": "Home & Kitchen",
+    "search_term": "air fryer",
+    "image": "https://media.takealot.com/covers_images/994d183b43e948adbefb1762b69489a6/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID100270199",
+    "title": "Hisense 6L 1500W Air Fryer with auto shut off function - Black",
+    "slug": "hisense-6l-1500w-air-fryer-with-auto-shut-off-function-black",
+    "brand": "Hisense",
+    "category": "Home & Kitchen",
+    "search_term": "air fryer",
+    "image": "https://media.takealot.com/covers_images/80834f38ab5642f98c49bdecb1bba42a/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID95783797",
+    "title": "Philips 1000 Series NA130/00 6.2L Analog Airfryer - Black",
+    "slug": "philips-1000-series-na130-00-6-2l-analog-airfryer-black",
+    "brand": "Philips",
+    "category": "Home & Kitchen",
+    "search_term": "air fryer",
+    "image": "https://media.takealot.com/covers_images/4edcf12336a74b72849e911291b95451/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID100270202",
+    "title": "Hisense 10L 2100W Dual Heating Air Fryer with Digital Touchscreen, visual window- Black",
+    "slug": "hisense-10l-2100w-dual-heating-air-fryer-with-digital-touchscree",
+    "brand": "Hisense",
+    "category": "Home & Kitchen",
+    "search_term": "air fryer",
+    "image": "https://media.takealot.com/covers_images/1a6781d2dcaa42969afc3bb2a888e99e/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID93003319",
+    "title": "Air Fryer 6L LED Display",
+    "slug": "air-fryer-6l-led-display",
+    "brand": null,
+    "category": "Home & Kitchen",
+    "search_term": "air fryer",
+    "image": "https://media.takealot.com/covers_images/63c6719f70b747ccb4901217ed4ed9d0/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID100165399",
+    "title": "Humble 5.2L Air Fryer with Visible Window - Large Capacity",
+    "slug": "humble-5-2l-air-fryer-with-visible-window-large-capacity",
+    "brand": "Humble",
+    "category": "Home & Kitchen",
+    "search_term": "air fryer",
+    "image": "https://media.takealot.com/covers_images/d0ba6c2ade5345f7b3e9470c0656d333/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID96451760",
+    "title": "Kenwood - 9 Litre Basket Air Fryer + Grill with Window - HFG92.000BK",
+    "slug": "kenwood-9-litre-basket-air-fryer-grill-with-window-hfg92-000bk",
+    "brand": "Kenwood",
+    "category": "Home & Kitchen",
+    "search_term": "air fryer",
+    "image": "https://media.takealot.com/covers_images/d2c4f9bdacab40dda22660a958bd7947/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID95827926",
+    "title": "Philips 2000 Series NA231/00 6,2L Digital Window Airfryer",
+    "slug": "philips-2000-series-na231-00-6-2l-digital-window-airfryer",
+    "brand": "Philips",
+    "category": "Home & Kitchen",
+    "search_term": "air fryer",
+    "image": "https://media.takealot.com/covers_images/b3a7047efab647e590edb04b56d20884/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID97266156",
+    "title": "Fully Automatic Espresso & Mocha Coffee Machine with Milk Frother",
+    "slug": "fully-automatic-espresso-mocha-coffee-machine-with-milk-frother",
+    "brand": null,
+    "category": "Home & Kitchen",
+    "search_term": "coffee machine",
+    "image": "https://media.takealot.com/covers_images/1d40ae5508554f8486b8a1f9da58fdd8/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID96231050",
+    "title": "BEKO CEG7404C Café Experto Fully Automatic Coffee machine with milk cup",
+    "slug": "beko-ceg7404c-caf-experto-fully-automatic-coffee-machine-with-mi",
+    "brand": "BEKO",
+    "category": "Home & Kitchen",
+    "search_term": "coffee machine",
+    "image": "https://media.takealot.com/covers_images/043232e59561449b8168884dbe79a19e/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID96999671",
+    "title": "Nespresso Inissia Coffee Machine",
+    "slug": "nespresso-inissia-coffee-machine",
+    "brand": "Nespresso",
+    "category": "Home & Kitchen",
+    "search_term": "coffee machine",
+    "image": "https://media.takealot.com/covers_images/efa2cee632fc486888b98be960400442/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID98450245",
+    "title": "HOMTTO Espresso Machine Coffee Maker Smart Touch 20 Bar 1.8L Tank",
+    "slug": "homtto-espresso-machine-coffee-maker-smart-touch-20-bar-1-8l-tan",
+    "brand": "HOMTTO",
+    "category": "Home & Kitchen",
+    "search_term": "coffee machine",
+    "image": "https://media.takealot.com/covers_images/41047a53e37343239e002e58556e4746/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID100813266",
+    "title": "Bennett Read Casa Barista Automatic 9-in-1 Coffee Machine",
+    "slug": "bennett-read-casa-barista-automatic-9-in-1-coffee-machine",
+    "brand": "Bennett Read",
+    "category": "Home & Kitchen",
+    "search_term": "coffee machine",
+    "image": "https://media.takealot.com/covers_images/17580003cb25421c88dd097b2e079615/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID98874211",
+    "title": "Fully Automatic Espresso & Mocha Coffee Machine with Milk Frother",
+    "slug": "fully-automatic-espresso-mocha-coffee-machine-with-milk-frother",
+    "brand": null,
+    "category": "Home & Kitchen",
+    "search_term": "coffee machine",
+    "image": "https://media.takealot.com/covers_images/9b5b2bf012b749e48585de61beb3dc55/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID96304207",
+    "title": "Defy DCM630G Filter Coffee Machine Black",
+    "slug": "defy-dcm630g-filter-coffee-machine-black",
+    "brand": "Defy",
+    "category": "Home & Kitchen",
+    "search_term": "coffee machine",
+    "image": "https://media.takealot.com/covers_images/ed0f40fbbc794ce6b53ca8acd2b60329/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID95499532",
+    "title": "EP0820/00 Philips Fully Automatic Espresso Machine",
+    "slug": "ep0820-00-philips-fully-automatic-espresso-machine",
+    "brand": "Philips",
+    "category": "Home & Kitchen",
+    "search_term": "coffee machine",
+    "image": "https://media.takealot.com/covers_images/05eef6e0ba844fababef788fc25b07c6/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID90153154",
+    "title": "Nespresso Lattissima One Coffee Pod Machine",
+    "slug": "nespresso-lattissima-one-coffee-pod-machine",
+    "brand": "Nespresso",
+    "category": "Home & Kitchen",
+    "search_term": "coffee machine",
+    "image": "https://media.takealot.com/covers_images/40e31017d5e749feb52895e800f4ab81/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID54857975",
+    "title": "Bennett Read Aerovac Corded Vacuum Cleaner 2.0",
+    "slug": "bennett-read-aerovac-corded-vacuum-cleaner-2-0",
+    "brand": "Bennett Read",
+    "category": "Home & Kitchen",
+    "search_term": "vacuum cleaner",
+    "image": "https://media.takealot.com/covers_images/e8e277a452a64325adb0e2aa3a6b18a5/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID60867903",
+    "title": "Bennett Read Tough 12 Wet-Dry-Blow Vacuum Cleaner",
+    "slug": "bennett-read-tough-12-wet-dry-blow-vacuum-cleaner",
+    "brand": "Bennett Read",
+    "category": "Home & Kitchen",
+    "search_term": "vacuum cleaner",
+    "image": "https://media.takealot.com/covers_tsins/64018723/6009710600689-1-zoom.jpg",
+    "target_price": null
+  },
+  {
+    "plid": "PLID94159895",
+    "title": "Bennett Read Micro 2.0 Multi-Surface Vacuum Cleaner",
+    "slug": "bennett-read-micro-2-0-multi-surface-vacuum-cleaner",
+    "brand": "Bennett Read",
+    "category": "Home & Kitchen",
+    "search_term": "vacuum cleaner",
+    "image": "https://media.takealot.com/covers_images/c0b39b7b55e7435ca1c98bc353b374ca/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID96007968",
+    "title": "Bennett Read Ultra Force 20L Wet & Dry Vacuum Cleaner - Stainless Steel",
+    "slug": "bennett-read-ultra-force-20l-wet-dry-vacuum-cleaner-stainless-st",
+    "brand": "Bennett Read",
+    "category": "Home & Kitchen",
+    "search_term": "vacuum cleaner",
+    "image": "https://media.takealot.com/covers_images/c5699fd331b14f0880e8d70317d6aead/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID97288697",
+    "title": "Hoover Stainless Steel 20L Wet Dry Drum Vacuum",
+    "slug": "hoover-stainless-steel-20l-wet-dry-drum-vacuum",
+    "brand": "Hoover",
+    "category": "Home & Kitchen",
+    "search_term": "vacuum cleaner",
+    "image": "https://media.takealot.com/covers_images/13ca2f4d1efa44f6825adae753a8ea7f/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID72836307",
+    "title": "Philips Series 2000 Bagless 3L Vacuum Cleaner, 1800W, White",
+    "slug": "philips-series-2000-bagless-3l-vacuum-cleaner-1800w-white",
+    "brand": "Philips",
+    "category": "Home & Kitchen",
+    "search_term": "vacuum cleaner",
+    "image": "https://media.takealot.com/covers_images/73961207c3d046d4b0155e623f63f7fb/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID73789076",
+    "title": "Genesis Minimax Cyclone",
+    "slug": "genesis-minimax-cyclone",
+    "brand": "Genesis",
+    "category": "Home & Kitchen",
+    "search_term": "vacuum cleaner",
+    "image": "https://media.takealot.com/covers_images/cc73677fa0b446a1902fece38513a2dc/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID101157565",
+    "title": "Bennett Read DuoForce Air Cordless 2-in-1 Stick Vacuum Cleaner",
+    "slug": "bennett-read-duoforce-air-cordless-2-in-1-stick-vacuum-cleaner",
+    "brand": "Bennett Read",
+    "category": "Home & Kitchen",
+    "search_term": "vacuum cleaner",
+    "image": "https://media.takealot.com/covers_images/9880c9fe20014a89b3b8489a33470a05/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID90990623",
+    "title": "Hoover Max Wet & Dry 35L Tank Vacuum - HWD35-Max",
+    "slug": "hoover-max-wet-dry-35l-tank-vacuum-hwd35-max",
+    "brand": "Hoover",
+    "category": "Home & Kitchen",
+    "search_term": "vacuum cleaner",
+    "image": "https://media.takealot.com/covers_images/5cacd501a7d44920be2ddacf052ed5ce/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID96400591",
+    "title": "2L Cordless Electric Stainless Steel Kettle",
+    "slug": "2l-cordless-electric-stainless-steel-kettle",
+    "brand": null,
+    "category": "Home & Kitchen",
+    "search_term": "kettle stainless steel",
+    "image": "https://media.takealot.com/covers_images/3aac7e6972ba40c8bbec3ba80788ab61/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID73744663",
+    "title": "Russell Hobbs Everyday Stainless Steel Kettle and Toaster Set",
+    "slug": "russell-hobbs-everyday-stainless-steel-kettle-and-toaster-set",
+    "brand": "Russell Hobbs",
+    "category": "Home & Kitchen",
+    "search_term": "kettle stainless steel",
+    "image": "https://media.takealot.com/covers_images/4777656522f84237bcf7e77b51b236e1/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID95918855",
+    "title": "Defy WK 5100 JS Silver Stainless Steel 1.7 L Kettle",
+    "slug": "defy-wk-5100-js-silver-stainless-steel-1-7-l-kettle",
+    "brand": "Defy",
+    "category": "Home & Kitchen",
+    "search_term": "kettle stainless steel",
+    "image": "https://media.takealot.com/covers_images/4fed4add4d75439bb68bfded69222c2a/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID17259991",
+    "title": "Mellerware Kettle 360 Degree Cordless Stainless Steel Brushed 1.7L 2200W",
+    "slug": "mellerware-kettle-360-degree-cordless-stainless-steel-brushed-1-",
+    "brand": "Mellerware",
+    "category": "Home & Kitchen",
+    "search_term": "kettle stainless steel",
+    "image": "https://media.takealot.com/covers_images/01dd7cd41a744ee49db7da868fca61ec/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID99674088",
+    "title": "REDISSON Electric Kettle , 1.8L Stainless Steel Tea Kettle, Fast Boil Water",
+    "slug": "redisson-electric-kettle-1-8l-stainless-steel-tea-kettle-fast-bo",
+    "brand": "Redisson",
+    "category": "Home & Kitchen",
+    "search_term": "kettle stainless steel",
+    "image": "https://media.takealot.com/covers_images/5bad16eba0bc4cef80ad84f4229c655f/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID95914950",
+    "title": "Redisson Stainless Steel 1.8 L Kettle Fast Boiling 1500 Watts",
+    "slug": "redisson-stainless-steel-1-8-l-kettle-fast-boiling-1500-watts",
+    "brand": "Redisson",
+    "category": "Home & Kitchen",
+    "search_term": "kettle stainless steel",
+    "image": "https://media.takealot.com/covers_images/6414c890c3f84e65ab1a046f634e76aa/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID72175216",
+    "title": "Kenwood - Cordless Stainless Steel Kettle - ZJM10.000SS",
+    "slug": "kenwood-cordless-stainless-steel-kettle-zjm10-000ss",
+    "brand": "Kenwood",
+    "category": "Home & Kitchen",
+    "search_term": "kettle stainless steel",
+    "image": "https://media.takealot.com/covers_images/9296c21b8e8a4fd1bf4dcddf631e4d46/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID95400858",
+    "title": "Mellerware Kettle 360 Degree Cordless Glass Black 1.8L 2200W \"Storm\"",
+    "slug": "mellerware-kettle-360-degree-cordless-glass-black-1-8l-2200w-sto",
+    "brand": "Mellerware",
+    "category": "Home & Kitchen",
+    "search_term": "kettle stainless steel",
+    "image": "https://media.takealot.com/covers_images/15e60819f7574663ba0c7931c025d224/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID96236208",
+    "title": "Royal Homeware Stainless Steel 1.8 L Kettle - Avantgarde",
+    "slug": "royal-homeware-stainless-steel-1-8-l-kettle-avantgarde",
+    "brand": "ROYAL HOMEWARE",
+    "category": "Home & Kitchen",
+    "search_term": "kettle stainless steel",
+    "image": "https://media.takealot.com/covers_images/e5739e98c598425e871a9b4f1144709a/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID98575664",
+    "title": "Hisense 20L Mechanical Microwave with 5 Power Levels & Defrost Function",
+    "slug": "hisense-20l-mechanical-microwave-with-5-power-levels-defrost-fun",
+    "brand": "Hisense",
+    "category": "Home & Kitchen",
+    "search_term": "microwave",
+    "image": "https://media.takealot.com/covers_images/0aa826f7887a4d84b35473c7f5d95b27/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID98632941",
+    "title": "Hisense 20L 700W Digital Microwave Oven with 6 Preset Menus - Mirror Silver",
+    "slug": "hisense-20l-700w-digital-microwave-oven-with-6-preset-menus-mirr",
+    "brand": "Hisense",
+    "category": "Home & Kitchen",
+    "search_term": "microwave",
+    "image": "https://media.takealot.com/covers_images/c89b00a67fa34451a305ba5f7e379039/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID97005456",
+    "title": "Hisense Microwaves - 28L 800W Electronic Microwave Oven with Handle - Black",
+    "slug": "hisense-microwaves-28l-800w-electronic-microwave-oven-with-handl",
+    "brand": "Hisense",
+    "category": "Home & Kitchen",
+    "search_term": "microwave",
+    "image": "https://media.takealot.com/covers_images/49eaeecaf2504f3581d16930cf5159f8/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID98575663",
+    "title": "Hisense 20L Digital Microwave Oven - H20MOBS15",
+    "slug": "hisense-20l-digital-microwave-oven-h20mobs15",
+    "brand": "Hisense",
+    "category": "Home & Kitchen",
+    "search_term": "microwave",
+    "image": "https://media.takealot.com/covers_images/06a330f18c19492fb261a73dd0dbad62/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID94919278",
+    "title": "Russell Hobbs rhem21l 20l Electronic Black Mirror Microwave",
+    "slug": "russell-hobbs-rhem21l-20l-electronic-black-mirror-microwave",
+    "brand": "Russell Hobbs",
+    "category": "Home & Kitchen",
+    "search_term": "microwave",
+    "image": "https://media.takealot.com/covers_images/83e9a23b474546fba1efae905938d901/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID70725199",
+    "title": "Defy 30L Solo Microwave Oven DMO390 Silver",
+    "slug": "defy-30l-solo-microwave-oven-dmo390-silver",
+    "brand": "Defy",
+    "category": "Home & Kitchen",
+    "search_term": "microwave",
+    "image": "https://media.takealot.com/covers_images/4f3393a8839e43b9aad46b4d534c3c23/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID96818187",
+    "title": "Hisense 45L 1000W Electronic Microwave Oven - Black",
+    "slug": "hisense-45l-1000w-electronic-microwave-oven-black",
+    "brand": "Hisense",
+    "category": "Home & Kitchen",
+    "search_term": "microwave",
+    "image": "https://media.takealot.com/covers_images/c4b41eaf144d4e4d8bb63ce45f2c6871/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID101495928",
+    "title": "Midea 30L Inverter Digital Microwave 900W - Black",
+    "slug": "midea-30l-inverter-digital-microwave-900w-black",
+    "brand": "Midea",
+    "category": "Home & Kitchen",
+    "search_term": "microwave",
+    "image": "https://media.takealot.com/covers_images/7d85882654cd4cf3920b61e5e1f73914/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID95723427",
+    "title": "Midea 20L Inverter Manual Microwave 700W - White",
+    "slug": "midea-20l-inverter-manual-microwave-700w-white",
+    "brand": "Midea",
+    "category": "Home & Kitchen",
+    "search_term": "microwave",
+    "image": "https://media.takealot.com/covers_images/b20a541ba69344c59453d850a20d140e/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID101174627",
+    "title": "PURE PLEASURE White Single Tie-down Electric Blanket 75x150",
+    "slug": "pure-pleasure-white-single-tie-down-electric-blanket-75x150",
+    "brand": "Pure Pleasure",
+    "category": "Home & Kitchen",
+    "search_term": "electric blanket",
+    "image": "https://media.takealot.com/covers_images/ad1bf7c2184548edba88b25c0b0f2dd1/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID101157748",
+    "title": "PURE PLEASURE 3/4 Double Tie-down Electric Blanket 110x150",
+    "slug": "pure-pleasure-3-4-double-tie-down-electric-blanket-110x150",
+    "brand": "Pure Pleasure",
+    "category": "Home & Kitchen",
+    "search_term": "electric blanket",
+    "image": "https://media.takealot.com/covers_images/69809ab88e6a4bf99a6a92522e9e5fab/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID44749899",
+    "title": "Pure Pleasure - Luxury Fleece - Fitted Electric Blanket W/ Elastic",
+    "slug": "pure-pleasure-luxury-fleece-fitted-electric-blanket-w-elastic",
+    "brand": "Pure Pleasure",
+    "category": "Home & Kitchen",
+    "search_term": "electric blanket",
+    "image": "https://media.takealot.com/covers_tsins/47589577/47589577-1-zoom.jpg",
+    "target_price": null
+  },
+  {
+    "plid": "PLID101340043",
+    "title": "PURE PLEASURE Queen | Tie-Down Electric Blanket 152x150",
+    "slug": "pure-pleasure-queen-tie-down-electric-blanket-152x150",
+    "brand": "Pure Pleasure",
+    "category": "Home & Kitchen",
+    "search_term": "electric blanket",
+    "image": "https://media.takealot.com/covers_images/4b991a93b2fe4d17b6486138797790ce/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID101340042",
+    "title": "PURE PLEASURE Double | Tie-Down Electric Blanket 137x150",
+    "slug": "pure-pleasure-double-tie-down-electric-blanket-137x150",
+    "brand": "Pure Pleasure",
+    "category": "Home & Kitchen",
+    "search_term": "electric blanket",
+    "image": "https://media.takealot.com/covers_images/4b991a93b2fe4d17b6486138797790ce/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID90357384",
+    "title": "LUXELL - Full-Fit Electric Blanket - All Night Use / QUEEN - 188x152cm",
+    "slug": "luxell-full-fit-electric-blanket-all-night-use-queen-188x152cm",
+    "brand": "Luxell",
+    "category": "Home & Kitchen",
+    "search_term": "electric blanket",
+    "image": "https://media.takealot.com/covers_images/f9b9e0bc19ac422ea6cfb4eb5c8c9097/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID102005760",
+    "title": "ALVA 3/4 Double Tie-Down Electric Blanket 110x150 | Single Controller",
+    "slug": "alva-3-4-double-tie-down-electric-blanket-110x150-single-control",
+    "brand": "Alva",
+    "category": "Home & Kitchen",
+    "search_term": "electric blanket",
+    "image": "https://media.takealot.com/covers_images/51f45f9d6d914ea4b9497b8e601df4dd/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID90357393",
+    "title": "LUXELL - Full-Fit Electric Blanket - All Night Use / KING - 188x183cm",
+    "slug": "luxell-full-fit-electric-blanket-all-night-use-king-188x183cm",
+    "brand": "Luxell",
+    "category": "Home & Kitchen",
+    "search_term": "electric blanket",
+    "image": "https://media.takealot.com/covers_images/f9b9e0bc19ac422ea6cfb4eb5c8c9097/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID98339173",
+    "title": "Flannel & Sherpa Electric Blanket - 9 Heat Settings & Timer",
+    "slug": "flannel-sherpa-electric-blanket-9-heat-settings-timer",
+    "brand": "MDMV",
+    "category": "Home & Kitchen",
+    "search_term": "electric blanket",
+    "image": "https://media.takealot.com/covers_images/ce85c7a939b3462ab90a6abfab652e7c/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID98015421",
+    "title": "JBL Quantum 100M2 Wired Over-Ear Gaming Headset with Detachable Mic",
+    "slug": "jbl-quantum-100m2-wired-over-ear-gaming-headset-with-detachable-",
+    "brand": "JBL",
+    "category": "Gaming",
+    "search_term": "gaming headset",
+    "image": "https://media.takealot.com/covers_images/9511173d1e414e00bae294473226828c/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID54509378",
+    "title": "Redragon ARES 2.0 Over-Ear Gaming Headset - Black",
+    "slug": "redragon-ares-2-0-over-ear-gaming-headset-black",
+    "brand": "Redragon",
+    "category": "Gaming",
+    "search_term": "gaming headset",
+    "image": "https://media.takealot.com/covers_tsins/57531048/6950376783431-1-zoom.jpg",
+    "target_price": null
+  },
+  {
+    "plid": "PLID99690102",
+    "title": "Redragon H211 CRONUS Surround Sound RGB Wired Gaming Headset - White",
+    "slug": "redragon-h211-cronus-surround-sound-rgb-wired-gaming-headset-whi",
+    "brand": "Redragon",
+    "category": "Gaming",
+    "search_term": "gaming headset",
+    "image": "https://media.takealot.com/covers_images/86eef6ed2f514430825000a6dddfd454/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID93271267",
+    "title": "ONIKUMA Gaming Headphones with Mic - K8 Wired Gaming Headset with Mic",
+    "slug": "onikuma-gaming-headphones-with-mic-k8-wired-gaming-headset-with-",
+    "brand": null,
+    "category": "Gaming",
+    "search_term": "gaming headset",
+    "image": "https://media.takealot.com/covers_images/3f1263c00ffa41ee930800fe1feae2dd/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID54555285",
+    "title": "Gaming Headphones with Mic & LED- G9000 Gaming Headset, Pro Headsets - Blue",
+    "slug": "gaming-headphones-with-mic-led-g9000-gaming-headset-pro-headsets",
+    "brand": null,
+    "category": "Gaming",
+    "search_term": "gaming headset",
+    "image": "https://media.takealot.com/covers_tsins/57603032/57603032-1-zoom.jpeg",
+    "target_price": null
+  },
+  {
+    "plid": "PLID52691707",
+    "title": "Gaming Headphones with Mic- G9000 Gaming Headset, Pro Headsets - LED Blue",
+    "slug": "gaming-headphones-with-mic-g9000-gaming-headset-pro-headsets-led",
+    "brand": "Kotion Each",
+    "category": "Gaming",
+    "search_term": "gaming headset",
+    "image": "https://media.takealot.com/covers_tsins/55646830/6009544132370-1-zoom.jpg",
+    "target_price": null
+  },
+  {
+    "plid": "PLID72866819",
+    "title": "Redragon HYLAS 2.0 RGB Gaming Headset - Black",
+    "slug": "redragon-hylas-2-0-rgb-gaming-headset-black",
+    "brand": "Redragon",
+    "category": "Gaming",
+    "search_term": "gaming headset",
+    "image": "https://media.takealot.com/covers_images/e753283142b7488f83ef40ac8a7c6025/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID69484595",
+    "title": "Redragon THEMIS 2.0 Gaming Headset - Black",
+    "slug": "redragon-themis-2-0-gaming-headset-black",
+    "brand": "Redragon",
+    "category": "Gaming",
+    "search_term": "gaming headset",
+    "image": "https://media.takealot.com/covers_images/290d9f59b8ae4be3a7583c1fe77f8305/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID101497962",
+    "title": "ATTACK SHARK L80PRO Wireless Gaming Headset with Mic, Headset for Switch PC",
+    "slug": "attack-shark-l80pro-wireless-gaming-headset-with-mic-headset-for",
+    "brand": "ATTACK SHARK",
+    "category": "Gaming",
+    "search_term": "gaming headset",
+    "image": "https://media.takealot.com/covers_images/db3eb0bc545f4bc7a336c075730af005/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID72866815",
+    "title": "Redragon PREDATOR 4000DPI 11-Button RGB Gaming Mouse - Black",
+    "slug": "redragon-predator-4000dpi-11-button-rgb-gaming-mouse-black",
+    "brand": "Redragon",
+    "category": "Gaming",
+    "search_term": "gaming mouse",
+    "image": "https://media.takealot.com/covers_images/45ce315657294a9db4e39fcc3157c3e3/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID99144199",
+    "title": "Attack Shark G3pro LIGHTSPEED Wireless Gaming Mouse,25000DPI 500ma Tri-mode",
+    "slug": "attack-shark-g3pro-lightspeed-wireless-gaming-mouse-25000dpi-500",
+    "brand": "ATTACK SHARK",
+    "category": "Gaming",
+    "search_term": "gaming mouse",
+    "image": "https://media.takealot.com/covers_images/b41916e2bdc0483f9144eeb0523b135a/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID69484583",
+    "title": "Redragon STORM 12400DPI 7-Button RGB Gaming Mouse",
+    "slug": "redragon-storm-12400dpi-7-button-rgb-gaming-mouse",
+    "brand": "Redragon",
+    "category": "Gaming",
+    "search_term": "gaming mouse",
+    "image": "https://media.takealot.com/covers_images/eb8666928fac4f1e91a2f22336a06182/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID95927180",
+    "title": "ATTACK SHARK X11 Ultra Lightweight RGB Gaming Mouse 22000DPI",
+    "slug": "attack-shark-x11-ultra-lightweight-rgb-gaming-mouse-22000dpi",
+    "brand": "ATTACK SHARK",
+    "category": "Gaming",
+    "search_term": "gaming mouse",
+    "image": "https://media.takealot.com/covers_images/119f49f9c1724b6aae0b6bcede6eb9d2/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID95359763",
+    "title": "Upgraded Large Size Anti-Slip Black&White Art Gaming Mouse Pad Desk Mat",
+    "slug": "upgraded-large-size-anti-slip-black-white-art-gaming-mouse-pad-d",
+    "brand": null,
+    "category": "Gaming",
+    "search_term": "gaming mouse",
+    "image": "https://media.takealot.com/covers_images/48ba7b625e7945fe8476e81e7c7f6b6b/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID54510627",
+    "title": "Redragon GRIFFIN 7200DPI Gaming Mouse",
+    "slug": "redragon-griffin-7200dpi-gaming-mouse",
+    "brand": "Redragon",
+    "category": "Gaming",
+    "search_term": "gaming mouse",
+    "image": "https://media.takealot.com/covers_images/785049667c8642ffa6942db5bac2cdd7/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID92752327",
+    "title": "Redragon AATROX 6200DPI 15-Button RGB Gaming Mouse - Black",
+    "slug": "redragon-aatrox-6200dpi-15-button-rgb-gaming-mouse-black",
+    "brand": "Redragon",
+    "category": "Gaming",
+    "search_term": "gaming mouse",
+    "image": "https://media.takealot.com/covers_images/9df8acb483cb4d08b545e95ede4dd64f/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID72165507",
+    "title": "X8 Ergonomic Wireless 2.4G 2400DPI Gaming Mouse Silent",
+    "slug": "x8-ergonomic-wireless-2-4g-2400dpi-gaming-mouse-silent",
+    "brand": null,
+    "category": "Gaming",
+    "search_term": "gaming mouse",
+    "image": "https://media.takealot.com/covers_images/5fce4f8c74ff4fcfb9e57747249e881f/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID99144197",
+    "title": "Attack Shark G3pro LIGHTSPEED Wireless Gaming Mouse,25000DPI 500ma Tri-mode",
+    "slug": "attack-shark-g3pro-lightspeed-wireless-gaming-mouse-25000dpi-500",
+    "brand": "ATTACK SHARK",
+    "category": "Gaming",
+    "search_term": "gaming mouse",
+    "image": "https://media.takealot.com/covers_images/1e260ed3a50f45909ec1f9d0ea919fec/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID73817018",
+    "title": "Playstation 5 Dualsense Controller - Starlight Blue (PS5)",
+    "slug": "playstation-5-dualsense-controller-starlight-blue-ps5",
+    "brand": "Sony Playstation",
+    "category": "Gaming",
+    "search_term": "controller ps5",
+    "image": "https://media.takealot.com/covers_images/6a50f60118fa4c6e94c7220c69c34179/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID73815735",
+    "title": "Generic PS5 Style Wireless Controller - Pink",
+    "slug": "generic-ps5-style-wireless-controller-pink",
+    "brand": null,
+    "category": "Gaming",
+    "search_term": "controller ps5",
+    "image": "https://media.takealot.com/covers_images/0fb75c65c4714c15b698d3aac24824f0/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID72297860",
+    "title": "Generic Wireless Controller for PS5 - Black",
+    "slug": "generic-wireless-controller-for-ps5-black",
+    "brand": null,
+    "category": "Gaming",
+    "search_term": "controller ps5",
+    "image": "https://media.takealot.com/covers_images/4ebf26da8d1946a8b5a637b4334c105f/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID70627465",
+    "title": "Playstation 5 Dualsense Controller - Glacier White (PS5)",
+    "slug": "playstation-5-dualsense-controller-glacier-white-ps5",
+    "brand": "Sony Playstation",
+    "category": "Gaming",
+    "search_term": "controller ps5",
+    "image": "https://media.takealot.com/covers_images/fe4ccd60167b4185971b17e79d298b01/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID94008196",
+    "title": "PlayStation 5 (PS5) DualSense Wireless Controller - Cobalt Blue",
+    "slug": "playstation-5-ps5-dualsense-wireless-controller-cobalt-blue",
+    "brand": "Sony Playstation",
+    "category": "Gaming",
+    "search_term": "controller ps5",
+    "image": "https://media.takealot.com/covers_images/06865f0abf154456811fb96f1436fc9a/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID98340849",
+    "title": "Compatible With PS5 Twin Charging Dock- Multi-Color RGB Lighting",
+    "slug": "compatible-with-ps5-twin-charging-dock-multi-color-rgb-lighting",
+    "brand": null,
+    "category": "Gaming",
+    "search_term": "controller ps5",
+    "image": "https://media.takealot.com/covers_images/11ff895326c34b21bdf95c2b5e33d40e/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID100682896",
+    "title": "Playstation 5 Dualsense Wireless Controller HYPERPOP (PS5)",
+    "slug": "playstation-5-dualsense-wireless-controller-hyperpop-ps5",
+    "brand": "Sony Playstation",
+    "category": "Gaming",
+    "search_term": "controller ps5",
+    "image": "https://media.takealot.com/covers_images/0c6a00d17b574337b938e1c68b36bbe4/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID91545969",
+    "title": "Dualsense Wireless Controller for Playstation 5 - Gray Camouflage (PS5)",
+    "slug": "dualsense-wireless-controller-for-playstation-5-gray-camouflage-",
+    "brand": "Sony Playstation",
+    "category": "Gaming",
+    "search_term": "controller ps5",
+    "image": "https://media.takealot.com/covers_images/eaab6df45bde4aa88cd76a3d6798852a/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID98886804",
+    "title": "Silicone Cover with 4 Thumb Grips Compatible with PS5 Controller- Spider",
+    "slug": "silicone-cover-with-4-thumb-grips-compatible-with-ps5-controller",
+    "brand": "Kool Millennials",
+    "category": "Gaming",
+    "search_term": "controller ps5",
+    "image": "https://media.takealot.com/covers_images/f4194c22a0d64c57a3e5b78554f915f7/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID99939530",
+    "title": "Professional Gaming Chair that Reclines",
+    "slug": "professional-gaming-chair-that-reclines",
+    "brand": null,
+    "category": "Gaming",
+    "search_term": "gaming chair",
+    "image": "https://media.takealot.com/covers_images/9eefaaef46b44934a15d1b5e09b21101/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID96618658",
+    "title": "Gaming Chair with Footrest - Computer Office Chair",
+    "slug": "gaming-chair-with-footrest-computer-office-chair",
+    "brand": "RSQQAV",
+    "category": "Gaming",
+    "search_term": "gaming chair",
+    "image": "https://media.takealot.com/covers_images/f77094343bcb4361b856ed79f17715cd/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID96018662",
+    "title": "Gaming Chair Ergonomic Adjustable Recliner Computer Chair with Footrest",
+    "slug": "gaming-chair-ergonomic-adjustable-recliner-computer-chair-with-f",
+    "brand": "RSQQAV",
+    "category": "Gaming",
+    "search_term": "gaming chair",
+    "image": "https://media.takealot.com/covers_images/3597cccbb788467e959d4ace6109b7e8/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID102354952",
+    "title": "Gaming, Office High Back Chair",
+    "slug": "gaming-office-high-back-chair",
+    "brand": null,
+    "category": "Gaming",
+    "search_term": "gaming chair",
+    "image": "https://media.takealot.com/covers_images/8d782beb41d9443e86eea6d7728c422a/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID95942834",
+    "title": "Vegas High Back Gaming Chair With Pull Out Foot Rest - Black/Grey - VGC-919",
+    "slug": "vegas-high-back-gaming-chair-with-pull-out-foot-rest-black-grey-",
+    "brand": null,
+    "category": "Gaming",
+    "search_term": "gaming chair",
+    "image": "https://media.takealot.com/covers_images/4b082ac5b2194e14b63d62bdd4882639/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID98343055",
+    "title": "Gaming Chair LED Lights Adjustable Recliner Computer Chair with Footrest",
+    "slug": "gaming-chair-led-lights-adjustable-recliner-computer-chair-with-",
+    "brand": "RSQQAV",
+    "category": "Gaming",
+    "search_term": "gaming chair",
+    "image": "https://media.takealot.com/covers_images/94dbae9ba04442d4a59f6a1d33f93d85/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID98342387",
+    "title": "GameTech Premium Gaming Chair -Leica Grey",
+    "slug": "gametech-premium-gaming-chair-leica-grey",
+    "brand": "GameTech",
+    "category": "Gaming",
+    "search_term": "gaming chair",
+    "image": "https://media.takealot.com/covers_images/40874d34242a4d1fb0dc16f982cabaab/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID100192912",
+    "title": "Computer Chair Home Office Chair Desk Chairs and Headrest Gaming Chair",
+    "slug": "computer-chair-home-office-chair-desk-chairs-and-headrest-gaming",
+    "brand": null,
+    "category": "Gaming",
+    "search_term": "gaming chair",
+    "image": "https://media.takealot.com/covers_images/82d6e1b92549485898e7120af4b1c614/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID99796178",
+    "title": "Touching Moment Gaming Chair",
+    "slug": "touching-moment-gaming-chair",
+    "brand": null,
+    "category": "Gaming",
+    "search_term": "gaming chair",
+    "image": "https://media.takealot.com/covers_images/8d5fe02f2e894ee4afd35c13db489887/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID96610778",
+    "title": "35L Waterproof Backpack For Men Laptop Travel Backpack with Large Capacity",
+    "slug": "35l-waterproof-backpack-for-men-laptop-travel-backpack-with-larg",
+    "brand": "Aus Pets",
+    "category": "Student Essentials",
+    "search_term": "backpack laptop",
+    "image": "https://media.takealot.com/covers_images/e2dc6050dc94406f893f1bef5a8638cb/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID98383898",
+    "title": "Topika Laptop Backpack for Men, Waterproof Oxford Black Business Backpacks",
+    "slug": "topika-laptop-backpack-for-men-waterproof-oxford-black-business-",
+    "brand": "Topika",
+    "category": "Student Essentials",
+    "search_term": "backpack laptop",
+    "image": "https://media.takealot.com/covers_images/6ca2169a22fe47a4a2311a67879b5ead/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID93733462",
+    "title": "Student Backpack ,Anti-theft Computer Backpack with Usb Charging,18L",
+    "slug": "student-backpack-anti-theft-computer-backpack-with-usb-charging-",
+    "brand": null,
+    "category": "Student Essentials",
+    "search_term": "backpack laptop",
+    "image": "https://media.takealot.com/covers_images/fc2ac5d119c249759516e45cd68e58a7/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID54514772",
+    "title": "Targus Intellect 15.6\" Laptop Backpack - Black/Grey",
+    "slug": "targus-intellect-15-6-laptop-backpack-black-grey",
+    "brand": "Targus",
+    "category": "Student Essentials",
+    "search_term": "backpack laptop",
+    "image": "https://media.takealot.com/covers_tsins/57540100/57540100-1-zoom.jpg",
+    "target_price": null
+  },
+  {
+    "plid": "PLID73521113",
+    "title": "16L Anti-Theft Laptop Backpack for Travel Business with USB Charging Port",
+    "slug": "16l-anti-theft-laptop-backpack-for-travel-business-with-usb-char",
+    "brand": null,
+    "category": "Student Essentials",
+    "search_term": "backpack laptop",
+    "image": "https://media.takealot.com/covers_images/1c9dd36af4ee4adabccfe9a82bdce7f3/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID94739742",
+    "title": "Unisex Stylish Casual Backpack with Computer Compartment",
+    "slug": "unisex-stylish-casual-backpack-with-computer-compartment",
+    "brand": null,
+    "category": "Student Essentials",
+    "search_term": "backpack laptop",
+    "image": "https://media.takealot.com/covers_images/1e06f3708ad34593b25461dec90a58a8/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID100954638",
+    "title": "Captain - K - All Purpose Waterproof Laptop Backpack Bag",
+    "slug": "captain-k-all-purpose-waterproof-laptop-backpack-bag",
+    "brand": "Captain - K - Products",
+    "category": "Student Essentials",
+    "search_term": "backpack laptop",
+    "image": "https://media.takealot.com/covers_images/3b445dde5b1f451c9461980ebd2f33b5/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID93034263",
+    "title": "NANWEI Laptop Backpack with USB ChargingPort Waterproof Anti Theft Backpack",
+    "slug": "nanwei-laptop-backpack-with-usb-chargingport-waterproof-anti-the",
+    "brand": "NANWEI",
+    "category": "Student Essentials",
+    "search_term": "backpack laptop",
+    "image": "https://media.takealot.com/covers_images/f5b8ee3207294b1a95eae90e8fdb1ff8/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID93372104",
+    "title": "Student Backpack, Waterproof Computer Backpack with USB Charging",
+    "slug": "student-backpack-waterproof-computer-backpack-with-usb-charging",
+    "brand": null,
+    "category": "Student Essentials",
+    "search_term": "backpack laptop",
+    "image": "https://media.takealot.com/covers_images/765639bec3da41a4a4e41970c0cdb13e/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID93124680",
+    "title": "Rechargeable Desk Lamp with Flexible Gooseneck & Adjustable Brightness",
+    "slug": "rechargeable-desk-lamp-with-flexible-gooseneck-adjustable-bright",
+    "brand": "Redisson",
+    "category": "Student Essentials",
+    "search_term": "desk lamp",
+    "image": "https://media.takealot.com/covers_images/e6cbb080bd9f45d8917184ef987b894b/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID53811623",
+    "title": "Swing Arm Desk Lamp",
+    "slug": "swing-arm-desk-lamp",
+    "brand": null,
+    "category": "Student Essentials",
+    "search_term": "desk lamp",
+    "image": "https://media.takealot.com/covers_tsins/56811895/56811895-1-zoom.jpg",
+    "target_price": null
+  },
+  {
+    "plid": "PLID99119616",
+    "title": "Desk Lamp LED Desk Light with Stepless Adjustable Flexible Gooseneck Office",
+    "slug": "desk-lamp-led-desk-light-with-stepless-adjustable-flexible-goose",
+    "brand": "Redisson",
+    "category": "Student Essentials",
+    "search_term": "desk lamp",
+    "image": "https://media.takealot.com/covers_images/48f5052835264d32933d615c4b968afe/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID98000007",
+    "title": "Rayswitch Table Lamp Wooden Adjustable Desk Lamp Dorm Lamp&Bedside Lamp",
+    "slug": "rayswitch-table-lamp-wooden-adjustable-desk-lamp-dorm-lamp-bedsi",
+    "brand": "Rayswitch",
+    "category": "Student Essentials",
+    "search_term": "desk lamp",
+    "image": "https://media.takealot.com/covers_images/0c5a47f05deb475c8367d779a3c25532/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID90537182",
+    "title": "Drlight Colour Adjustable Study Lamp Desk Lamp",
+    "slug": "drlight-colour-adjustable-study-lamp-desk-lamp",
+    "brand": "Dr Light",
+    "category": "Student Essentials",
+    "search_term": "desk lamp",
+    "image": "https://media.takealot.com/covers_images/7bd918167d344ccaabc37cb6543f0603/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID93172459",
+    "title": "Wireless Desk Lamp with Adjustable Head Last 2-12hrs 3 Colors Phone Holder",
+    "slug": "wireless-desk-lamp-with-adjustable-head-last-2-12hrs-3-colors-ph",
+    "brand": "Redisson",
+    "category": "Student Essentials",
+    "search_term": "desk lamp",
+    "image": "https://media.takealot.com/covers_images/c19f742998454fe6adc4ae9c7378906b/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID98499279",
+    "title": "Eye Protection LED Desk Lamp with Clamp,Architect Desk Lamp for Home Office",
+    "slug": "eye-protection-led-desk-lamp-with-clamp-architect-desk-lamp-for-",
+    "brand": "Redisson",
+    "category": "Student Essentials",
+    "search_term": "desk lamp",
+    "image": "https://media.takealot.com/covers_images/1f2d5c78c7254cd597c19659e206f4cd/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID95918521",
+    "title": "Desk lamp for Home Office & LED Table lamp light Adjustable&Foldable Lamp",
+    "slug": "desk-lamp-for-home-office-led-table-lamp-light-adjustable-foldab",
+    "brand": "Rayswitch",
+    "category": "Student Essentials",
+    "search_term": "desk lamp",
+    "image": "https://media.takealot.com/covers_images/cdc3c945a06f41c28435070029f843f3/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID99674752",
+    "title": "REDISSON Desk Lamp for Office Home, Eye-Caring Desk Light,1 Pack",
+    "slug": "redisson-desk-lamp-for-office-home-eye-caring-desk-light-1-pack",
+    "brand": "Redisson",
+    "category": "Student Essentials",
+    "search_term": "desk lamp",
+    "image": "https://media.takealot.com/covers_images/753e830074264a98a6f5bf4b8b0c1e61/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID90085601",
+    "title": "Treeline A4 Wiro Note Book Feint - 100 Page - Pack of 5 Notebooks",
+    "slug": "treeline-a4-wiro-note-book-feint-100-page-pack-of-5-notebooks",
+    "brand": "Treeline",
+    "category": "Student Essentials",
+    "search_term": "notebook a4",
+    "image": "https://media.takealot.com/covers_images/c9ea5df3d9ac4460b60ef955be698c6c/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID95934616",
+    "title": "Rexel Notebook A4 Feint and Ruled Perforated Pages -Pastel",
+    "slug": "rexel-notebook-a4-feint-and-ruled-perforated-pages-pastel",
+    "brand": "Rexel",
+    "category": "Student Essentials",
+    "search_term": "notebook a4",
+    "image": "https://media.takealot.com/covers_images/15f65bcf845d4a17976836951d198663/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID69412654",
+    "title": "Marco A4 Flexi Notebook - Premium PU Cover Lined Pages & Ribbon Bookmark",
+    "slug": "marco-a4-flexi-notebook-premium-pu-cover-lined-pages-ribbon-book",
+    "brand": "Marco",
+    "category": "Student Essentials",
+    "search_term": "notebook a4",
+    "image": "https://media.takealot.com/covers_images/ae1188636f2f4fac87dec896e4e7761b/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID92207078",
+    "title": "A4 80-Page Wirebooks Pack of 4",
+    "slug": "a4-80-page-wirebooks-pack-of-4",
+    "brand": null,
+    "category": "Student Essentials",
+    "search_term": "notebook a4",
+    "image": "https://media.takealot.com/covers_images/6e5398cb27494a67b1a105f86b8e5da0/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID46858941",
+    "title": "Rexel Notebook A4 Feint and Ruled Perforated Pages - Pink",
+    "slug": "rexel-notebook-a4-feint-and-ruled-perforated-pages-pink",
+    "brand": "Rexel",
+    "category": "Student Essentials",
+    "search_term": "notebook a4",
+    "image": "https://media.takealot.com/covers_images/a041f8df3d5c427fba4039985abfab58/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID46858940",
+    "title": "Rexel Notebook A4 Feint and Ruled Perforated Pages Purple",
+    "slug": "rexel-notebook-a4-feint-and-ruled-perforated-pages-purple",
+    "brand": "Rexel",
+    "category": "Student Essentials",
+    "search_term": "notebook a4",
+    "image": "https://media.takealot.com/covers_images/3bc046df45a74e28965c07fd78319aba/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID46858942",
+    "title": "Rexel Notebook A4 Feint and Ruled Perforated Pages - Blue",
+    "slug": "rexel-notebook-a4-feint-and-ruled-perforated-pages-blue",
+    "brand": "Rexel",
+    "category": "Student Essentials",
+    "search_term": "notebook a4",
+    "image": "https://media.takealot.com/covers_images/ac313fa434bf418ca084797cefffea5d/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID95945370",
+    "title": "Craft Soft Cover A4 Large Notebook, Simple College Ruled Journal A4",
+    "slug": "craft-soft-cover-a4-large-notebook-simple-college-ruled-journal-",
+    "brand": null,
+    "category": "Student Essentials",
+    "search_term": "notebook a4",
+    "image": "https://media.takealot.com/covers_images/7b24c893efc2483eba9c53b345abce73/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID93909513",
+    "title": "A4 150 Page Spiral Notebook Punched & Perforated (pack of 5)",
+    "slug": "a4-150-page-spiral-notebook-punched-perforated-pack-of-5",
+    "brand": "Marlin",
+    "category": "Student Essentials",
+    "search_term": "notebook a4",
+    "image": "https://media.takealot.com/covers_images/22626de5043c453aacf50128245c578f/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID96387048",
+    "title": "Insulated Stainless Steel Water Bottle with Straw for Sports /Travel 24Oz",
+    "slug": "insulated-stainless-steel-water-bottle-with-straw-for-sports-tra",
+    "brand": "Redisson",
+    "category": "Student Essentials",
+    "search_term": "water bottle insulated",
+    "image": "https://media.takealot.com/covers_images/e7c140048f0b43dbbdd65617387b8826/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID95916788",
+    "title": "VANOW 1.2L Leak Proof Water Bottle Stainless Steel Double Wall with Straw",
+    "slug": "vanow-1-2l-leak-proof-water-bottle-stainless-steel-double-wall-w",
+    "brand": "VANOW",
+    "category": "Student Essentials",
+    "search_term": "water bottle insulated",
+    "image": "https://media.takealot.com/covers_images/af4f7f1e2eb24dffa052458e5f4e9c95/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID101375324",
+    "title": "VYBLOOJUG 700ml Leak Proof Stainless Steel Water Bottle with 2in1 Spout Lid",
+    "slug": "vybloojug-700ml-leak-proof-stainless-steel-water-bottle-with-2in",
+    "brand": "VYBLOOJUG",
+    "category": "Student Essentials",
+    "search_term": "water bottle insulated",
+    "image": "https://media.takealot.com/covers_images/7396bdd60fe14698b47c273dbe72de67/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID93888680",
+    "title": "Hydro Cell 64oz (1.89 L) Stainless Steel Insulated Double Wall Water Bottle",
+    "slug": "hydro-cell-64oz-1-89-l-stainless-steel-insulated-double-wall-wat",
+    "brand": "Hydro Cell",
+    "category": "Student Essentials",
+    "search_term": "water bottle insulated",
+    "image": "https://media.takealot.com/covers_images/dbea88d9bfb74999b3ecf304e6a8ff6e/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID95780454",
+    "title": "VANOW 1.9L Stainless Steel Double Wall Leak Proof Water Bottle with 2 lids",
+    "slug": "vanow-1-9l-stainless-steel-double-wall-leak-proof-water-bottle-w",
+    "brand": "VANOW",
+    "category": "Student Essentials",
+    "search_term": "water bottle insulated",
+    "image": "https://media.takealot.com/covers_images/ca3d586986834687b8b4ee7a41f1adb5/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID93822976",
+    "title": "Hydro Cell 18oz (532ml) Stainless Steel Insulated Double Wall Water Bottle",
+    "slug": "hydro-cell-18oz-532ml-stainless-steel-insulated-double-wall-wate",
+    "brand": "Hydro Cell",
+    "category": "Student Essentials",
+    "search_term": "water bottle insulated",
+    "image": "https://media.takealot.com/covers_images/9dc30508bbcb43ad9eb7b5d9a2c3e3e0/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID95768404",
+    "title": "Insulated Stainless Steel Water Bottle with Straw for Sports /Travel - 32Oz",
+    "slug": "insulated-stainless-steel-water-bottle-with-straw-for-sports-tra",
+    "brand": null,
+    "category": "Student Essentials",
+    "search_term": "water bottle insulated",
+    "image": "https://media.takealot.com/covers_images/ff39462113c4476280c23a1196c4c6c0/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID98285380",
+    "title": "Stanley The IceFlow Bottle Flip Straw 2.0 1.06L / 36oz - Frost",
+    "slug": "stanley-the-iceflow-bottle-flip-straw-2-0-1-06l-36oz-frost",
+    "brand": "Stanley",
+    "category": "Student Essentials",
+    "search_term": "water bottle insulated",
+    "image": "https://media.takealot.com/covers_images/39c3da1fbe63431dba788838d87cf177/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID98344685",
+    "title": "VYBLOOJUG 946ml Leak Proof Stainless Steel Water Bottle with Straw & Lid",
+    "slug": "vybloojug-946ml-leak-proof-stainless-steel-water-bottle-with-str",
+    "brand": "VYBLOOJUG",
+    "category": "Student Essentials",
+    "search_term": "water bottle insulated",
+    "image": "https://media.takealot.com/covers_images/3ebb63a9a8394fd194483030e0b1224c/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID92861617",
+    "title": "20m Extension Cord Heavy Duty - Black",
+    "slug": "20m-extension-cord-heavy-duty-black",
+    "brand": null,
+    "category": "Student Essentials",
+    "search_term": "extension cord",
+    "image": "https://media.takealot.com/covers_images/cacd6f1801454f57a9db149bbdc3b092/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID40740727",
+    "title": "3m Extension Cord With A Two-Way Multi-Plug Extension Lead",
+    "slug": "3m-extension-cord-with-a-two-way-multi-plug-extension-lead",
+    "brand": "Stonebaby",
+    "category": "Student Essentials",
+    "search_term": "extension cord",
+    "image": "https://media.takealot.com/covers_tsins/43486532/43486532-1-zoom.jpg",
+    "target_price": null
+  },
+  {
+    "plid": "PLID95230980",
+    "title": "Everlotus 8 m extension cord with 7 way multiplug and cleaning cloth",
+    "slug": "everlotus-8-m-extension-cord-with-7-way-multiplug-and-cleaning-c",
+    "brand": "Everlotus",
+    "category": "Student Essentials",
+    "search_term": "extension cord",
+    "image": "https://media.takealot.com/covers_images/26c5cc343f7f4692b3e9baaa6869da7d/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID40740728",
+    "title": "5m Extension Cord With A Two-Way Multi-Plug Extension Lead",
+    "slug": "5m-extension-cord-with-a-two-way-multi-plug-extension-lead",
+    "brand": "Stonebaby",
+    "category": "Student Essentials",
+    "search_term": "extension cord",
+    "image": "https://media.takealot.com/covers_tsins/43486533/43486533-1-zoom.jpg",
+    "target_price": null
+  },
+  {
+    "plid": "PLID52617661",
+    "title": "MaxPower - 10m Extension Cord",
+    "slug": "maxpower-10m-extension-cord",
+    "brand": null,
+    "category": "Student Essentials",
+    "search_term": "extension cord",
+    "image": "https://media.takealot.com/covers_tsins/55567515/55567515-1-zoom.JPG",
+    "target_price": null
+  },
+  {
+    "plid": "PLID96232638",
+    "title": "20m Heavy Duty Extension Cord_ Black",
+    "slug": "20m-heavy-duty-extension-cord-black",
+    "brand": null,
+    "category": "Student Essentials",
+    "search_term": "extension cord",
+    "image": "https://media.takealot.com/covers_images/726ccf40330e4f078912d33b7d935bc3/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID95230978",
+    "title": "Everlotus 2.4 m extension cord with 7 way multiplug and cleaning cloth",
+    "slug": "everlotus-2-4-m-extension-cord-with-7-way-multiplug-and-cleaning",
+    "brand": "Everlotus",
+    "category": "Student Essentials",
+    "search_term": "extension cord",
+    "image": "https://media.takealot.com/covers_images/c0490c83160e4c2a80c7a2a52e267967/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID71784541",
+    "title": "Everlotus Extension Cord 15M Bundle With 3 Way Multi-Plug And 1 Adapter",
+    "slug": "everlotus-extension-cord-15m-bundle-with-3-way-multi-plug-and-1-",
+    "brand": "Everlotus",
+    "category": "Student Essentials",
+    "search_term": "extension cord",
+    "image": "https://media.takealot.com/covers_images/679870adbb0141aeb7cb63830e3ca4a3/s-zoom.file",
+    "target_price": null
+  },
+  {
+    "plid": "PLID92852737",
+    "title": "Switched Light Duty Side by Side 10A 3m Extension Cord 2 Way",
+    "slug": "switched-light-duty-side-by-side-10a-3m-extension-cord-2-way",
+    "brand": "Switched",
+    "category": "Student Essentials",
+    "search_term": "extension cord",
+    "image": "https://media.takealot.com/covers_images/4e4a850547d34138a35639fbd231a57e/s-zoom.file",
+    "target_price": null
+  }
+]
