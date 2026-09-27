@@ -274,7 +274,13 @@ footer.site a{color:var(--muted)}
 """
 
 
+# Set from config.json in build(); proves site ownership to Google Search Console.
+GOOGLE_VERIFICATION = ""
+
+
 def layout(title, description, body, base_url, canonical, extra_head=""):
+    verify = (f'<meta name="google-site-verification" content="{esc(GOOGLE_VERIFICATION)}">\n'
+              if GOOGLE_VERIFICATION else "")
     return f"""<!doctype html>
 <html lang="en-ZA">
 <head>
@@ -286,7 +292,7 @@ def layout(title, description, body, base_url, canonical, extra_head=""):
 <meta property="og:title" content="{esc(title)}">
 <meta property="og:description" content="{esc(description)}">
 <meta property="og:type" content="website">
-<style>{CSS}</style>
+{verify}<style>{CSS}</style>
 {extra_head}
 </head>
 <body>
@@ -523,6 +529,8 @@ Takealot before you pay. We are not affiliated with Takealot in any way.</p>
 
 def build(base_url):
     cfg = json.loads(CONFIG_PATH.read_text(encoding="utf-8")) if CONFIG_PATH.exists() else {}
+    global GOOGLE_VERIFICATION
+    GOOGLE_VERIFICATION = cfg.get("google_site_verification", "")
     base_url = base_url.rstrip("/")
     conn = sqlite3.connect(DB_PATH)
     products = load_products(conn)

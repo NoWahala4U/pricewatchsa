@@ -1,4 +1,5 @@
 {
   "affiliate_url_template": "{url}",
+  "google_site_verification": "xOUIOeS0LGaUkR6b8v4oO2tOkB2mVVjhKQ8F3X6Xk7w",
   "_comment": "Once your Takealot affiliate account is approved, replace the template above with your tracking link, using {url} or {url_encoded} where the product URL goes. Example: https://your-tracking-domain/click?a=YOURID&u={url_encoded}"
 }
