@@ -1,8 +1,8 @@
-# PriceWatch SA — Takealot price-history site
+# PriceWatch RSA: Takealot price-history site for Mzansi
 
 A static website that tracks Takealot prices over time and shows whether a
 "discount" is real. Visitors arrive from Google searching things like
-*"jbl wave buds price history"* or *"is the ninja air fryer cheaper on takealot"* —
+*"jbl wave buds price history"* or *"is the ninja air fryer cheaper on takealot"*,
 **no promotion, posting, or audience-building required.** Google is the distribution.
 
 Money comes from Takealot affiliate commission on the "View on Takealot" buttons,
@@ -87,15 +87,15 @@ Remove with `schtasks /Delete /TN "PriceWatchCollect" /F`.
   are exactly what Takealot advertises.
 - `collect.py` paces its requests (0.4s apart) to stay a polite background user.
 - Every product page carries an affiliate disclosure, and the site states clearly
-  that it is not affiliated with Takealot — both are required for honest affiliate
+  that it is not affiliated with Takealot, both are required for honest affiliate
   operation and for future ad-network approval.
 - Pages are static HTML with inline CSS/SVG: no JavaScript, no tracking, fast to
   load, and cheap to host.
 
 ## Files
 
-- `takealot.py` — shared API access
-- `seed.py` / `collect.py` / `build_site.py` — the pipeline
-- `watchlist.json` — products being tracked
-- `prices.db` — price history (SQLite)
-- `site/` — the generated website (regenerated on every build)
+- `takealot.py` —> shared API access
+- `seed.py` / `collect.py` / `build_site.py` —> the pipeline
+- `watchlist.json` —> products being tracked
+- `prices.db` —> price history (SQLite)
+- `site/` —> the generated website (regenerated on every build)
