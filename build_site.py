@@ -118,6 +118,79 @@ def verdict(p):
             f"price later.")
 
 
+def fmt_day(ts):
+    return datetime.fromtimestamp(ts, timezone.utc).strftime("%d %B %Y").lstrip("0")
+
+
+def last_change_ts(hist):
+    """When the price last moved (or tracking started, if it never has)."""
+    for i in range(len(hist) - 1, 0, -1):
+        if hist[i][1] != hist[i - 1][1]:
+            return hist[i][0]
+    return hist[0][0]
+
+
+def price_analysis(p):
+    """A few sentences of plain-language analysis, unique to each product's data.
+
+    Each page needs real text of its own: a page that is only a chart looks
+    "thin" to search engines and tends to stay out of the index.
+    """
+    hist = p["history"]
+    prices = [h[1] for h in hist]
+    changes = sum(1 for a, b in zip(prices, prices[1:]) if a != b)
+    out = []
+
+    if changes == 0:
+        out.append(f"We have checked this price {len(hist)} times since "
+                   f"{fmt_day(hist[0][0])} and it has not changed once: Takealot "
+                   f"has kept it at {rand(p['current'])} the whole time.")
+        return out, changes
+
+    low_ts = next(t for t, v, _ in hist if v == p["low"])
+    high_ts = next(t for t, v, _ in hist if v == p["high"])
+    spread = (p["high"] - p["low"]) / p["low"] * 100
+    out.append(f"We have checked this price {len(hist)} times since "
+               f"{fmt_day(hist[0][0])}, and it changed {changes} "
+               f"time{'s' if changes != 1 else ''}. The cheapest it has been is "
+               f"{rand(p['low'])} (first seen {fmt_day(low_ts)}) and the most "
+               f"expensive is {rand(p['high'])} (first seen {fmt_day(high_ts)}), "
+               f"a {spread:.0f}% swing.")
+
+    vs_avg = (p["current"] - p["avg"]) / p["avg"] * 100
+    if abs(vs_avg) < 1:
+        out.append(f"Today's price is right on its tracked average of "
+                   f"{rand(p['avg'])}.")
+    else:
+        out.append(f"Today's price is {abs(vs_avg):.0f}% "
+                   f"{'below' if vs_avg < 0 else 'above'} its tracked average of "
+                   f"{rand(p['avg'])}.")
+
+    month_ago = hist[-1][0] - 30 * 86400
+    then = next((v for t, v, _ in reversed(hist) if t <= month_ago), None)
+    if then is not None and then != p["current"]:
+        move = (p["current"] - then) / then * 100
+        out.append(f"Compared with a month ago ({rand(then)}), it is "
+                   f"{abs(move):.0f}% {'cheaper' if move < 0 else 'more expensive'}.")
+
+    return out, changes
+
+
+def discount_check(p):
+    """Compare Takealot's 'was' price with what the product actually sells for."""
+    if not (p["listing"] and p["listing"] > p["current"]):
+        return ""
+    real = (p["avg"] - p["current"]) / p["avg"] * 100
+    claim = (f"Takealot shows a list price of {rand(p['listing'])}, which makes "
+             f"today's price look {p['discount_pct']:.0f}% off. ")
+    if real >= 1:
+        return claim + (f"Measured against the average price we have actually seen "
+                        f"({rand(p['avg'])}), the real saving is about {real:.0f}%.")
+    return claim + (f"But it has sold for an average of {rand(p['avg'])} while we "
+                    f"have been tracking, so compared with its usual price there is "
+                    f"no real saving today.")
+
+
 # ---------------------------------------------------------------- chart
 
 def price_chart(hist, width=680, height=220):
@@ -269,6 +342,10 @@ th{color:var(--muted);font-weight:600;font-size:12px;text-transform:uppercase;
 footer.site{border-top:1px solid var(--border);margin-top:56px;
   padding:28px 0 44px;color:var(--muted);font-size:13px;background:var(--surface)}
 footer.site a{color:var(--muted)}
+.prose{max-width:72ch}
+.prose p{margin:0 0 10px}
+.prose p:last-child{margin-bottom:0}
+.prose h3{font-size:16px;margin:18px 0 4px}
 .disclosure{background:var(--accent-soft);border-radius:9px;padding:12px 15px;
   font-size:13px;color:var(--text);margin:18px 0}
 """
@@ -311,8 +388,7 @@ def layout(title, description, body, base_url, canonical, extra_head=""):
   several times a day and may change on Takealot before you get there. Always
   confirm the final price on Takealot before buying.</p>
   <p>Not affiliated with, endorsed by, or operated by Takealot. Product names and
-  images belong to their respective owners.
-  <a href="{base_url}/about.html">Affiliate disclosure</a>.</p>
+  images belong to their respective owners.</p>
 </div></footer>
 </body>
 </html>"""
@@ -361,6 +437,25 @@ def build_product_page(p, related, cfg, base_url):
         rating = (f'<p class="muted">★ {p["rating"]:.1f} from '
                   f'{p["reviews"]:,} Takealot reviews</p>'.replace(",", " "))
 
+    analysis, changes = price_analysis(p)
+    check = discount_check(p)
+    analysis_html = "".join(f"<p>{esc(s)}</p>" for s in
+                            [" ".join(analysis)] + ([check] if check else []))
+    days = max(1, round((p["history"][-1][0] - p["history"][0][0]) / 86400))
+    how_often = (f"It has changed {changes} time{'s' if changes != 1 else ''} in "
+                 f"the {days} days we have been watching it."
+                 if changes else
+                 f"It has not changed in the {days} days we have been watching it.")
+    faq = [
+        (f"What is the lowest price for the {p['title']} on Takealot?",
+         f"The lowest price we have recorded is {rand(p['low'])}. It currently "
+         f"costs {rand(p['current'])}."),
+        (f"Is now a good time to buy the {p['title']}?", f"{head}. {note}"),
+        ("How often does the price change?",
+         f"We check the price several times a day. {how_often}"),
+    ]
+    faq_html = "".join(f"<h3>{esc(q)}</h3><p>{esc(a)}</p>" for q, a in faq)
+
     rel = "".join(card(r, base_url) for r in related)
     rel_block = (f'<h2>More in {esc(p["category"])}</h2><div class="grid">{rel}</div>'
                  if rel else "")
@@ -405,7 +500,7 @@ Here is what it has cost, and whether today is a good time to buy.</p>
     <div class="panel" style="margin-top:14px">
       <div class="price">{rand(p['current'])}</div>
       {rating}
-      <a class="buy" href="{buy}" rel="nofollow sponsored noopener"
+      <a class="buy" href="{buy}" rel="nofollow noopener"
          target="_blank">View on Takealot</a>
     </div>
   </div>
@@ -419,15 +514,20 @@ Here is what it has cost, and whether today is a good time to buy.</p>
   </div>
 </div>
 
+<h2>Price analysis</h2>
+<div class="panel prose">{analysis_html}</div>
+
 <h2>Recorded prices</h2>
 <div class="scroll panel"><table>
   <tr><th>Checked</th><th>Price</th></tr>
   {rows}
 </table></div>
 
-<div class="disclosure">If you buy through the link on this page we may earn a
-small commission from Takealot, at no extra cost to you. It does not affect the
-prices shown — those come straight from Takealot's own listings.</div>
+<h2>Questions about this price</h2>
+<div class="prose">{faq_html}</div>
+
+<div class="disclosure">{SITE_NAME} is independent and earns nothing from
+Takealot. Every price shown comes straight from Takealot's own listings.</div>
 
 {rel_block}
 """
@@ -508,12 +608,10 @@ normally costs. Retail list prices are often inflated, so a discount can look
 large while the actual selling price has barely moved. With price history you can
 see the real pattern for yourself and decide whether to buy now or wait.</p>
 
-<h2>Affiliate disclosure</h2>
-<p>Product pages contain links to Takealot. If you buy something after following
-one of those links, we may earn a small commission from Takealot at no extra cost
-to you. This never changes the prices shown on this site: every price is recorded
-directly from Takealot's own product listings, and products are never ranked or
-hidden based on commission.</p>
+<h2>Independence</h2>
+<p>Product pages link to Takealot so you can check the price and buy there. We
+earn nothing from those links and nobody pays us to feature a product: every
+price is recorded directly from Takealot's own product listings.</p>
 
 <h2>Accuracy</h2>
 <p>Prices change constantly and our checks happen on a schedule, so the figure
@@ -521,8 +619,8 @@ here can be out of date by a few hours. Always confirm the final price on
 Takealot before you pay. We are not affiliated with Takealot in any way.</p>
 """
     return layout(f"How it works | {SITE_NAME}",
-                  f"How {SITE_NAME} tracks Takealot prices, and our affiliate "
-                  "disclosure.", body, base_url, "about.html")
+                  f"How {SITE_NAME} tracks Takealot prices, and why it is "
+                  "independent.", body, base_url, "about.html")
 
 
 # ---------------------------------------------------------------- build
@@ -552,18 +650,19 @@ def build(base_url):
     (SITE / "p").mkdir()
     (SITE / "c").mkdir()
 
-    urls = [""]
+    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    urls = [("", today)]
     (SITE / "index.html").write_text(
         build_home(products, categories, base_url), encoding="utf-8")
     (SITE / "about.html").write_text(build_about(base_url, len(products)),
                                      encoding="utf-8")
-    urls.append("about.html")
+    urls.append(("about.html", today))
 
     for cat, items in categories.items():
         rel = f"c/{slugify(cat)}.html"
         (SITE / rel).write_text(build_category_page(cat, items, base_url),
                                 encoding="utf-8")
-        urls.append(rel)
+        urls.append((rel, today))
 
     for p in products:
         related = [r for r in categories[p["category"]]
@@ -571,18 +670,24 @@ def build(base_url):
         rel = product_page_path(p)
         (SITE / rel).write_text(
             build_product_page(p, related, cfg, base_url), encoding="utf-8")
-        urls.append(rel)
+        # lastmod = when the price last moved, so search engines can tell which
+        # pages really changed instead of seeing every page change on every build
+        changed = datetime.fromtimestamp(last_change_ts(p["history"]), timezone.utc)
+        urls.append((rel, changed.strftime("%Y-%m-%d")))
 
-    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     sitemap = ('<?xml version="1.0" encoding="UTF-8"?>\n'
                '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
                + "".join(f"  <url><loc>{base_url}/{u}</loc>"
-                         f"<lastmod>{today}</lastmod></url>\n" for u in urls)
+                         f"<lastmod>{d}</lastmod></url>\n" for u, d in urls)
                + "</urlset>\n")
     (SITE / "sitemap.xml").write_text(sitemap, encoding="utf-8")
     (SITE / "robots.txt").write_text(
         f"User-agent: *\nAllow: /\n\nSitemap: {base_url}/sitemap.xml\n",
         encoding="utf-8")
+    # IndexNow checks site ownership by fetching the key as a text file
+    if cfg.get("indexnow_key"):
+        key = cfg["indexnow_key"]
+        (SITE / f"{key}.txt").write_text(key, encoding="utf-8")
 
     print(f"Built {len(urls)} pages into {SITE}")
     print(f"  {len(products)} products across {len(categories)} categories")

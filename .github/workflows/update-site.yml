@@ -23,6 +23,9 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: github-pages
+    env:
+      # Set a repository variable SITE_URL once you have a custom domain.
+      SITE_URL: ${{ vars.SITE_URL || format('https://{0}.github.io/{1}', github.repository_owner, github.event.repository.name) }}
     steps:
       - uses: actions/checkout@v4
 
@@ -47,9 +50,6 @@ jobs:
           git push
 
       - name: Build site
-        env:
-          # Set a repository variable SITE_URL once you have a custom domain.
-          SITE_URL: ${{ vars.SITE_URL || format('https://{0}.github.io/{1}', github.repository_owner, github.event.repository.name) }}
         run: python build_site.py --base-url "${SITE_URL,,}"   # lowercase to match Search Console
 
       - uses: actions/upload-pages-artifact@v3
@@ -57,3 +57,9 @@ jobs:
           path: site
 
       - uses: actions/deploy-pages@v4
+
+      # Ping Bing & co. about pages whose price just changed. A code push changes
+      # every page, so then all of them are sent.
+      - name: Notify search engines (IndexNow)
+        continue-on-error: true
+        run: python indexnow.py --base-url "${SITE_URL,,}" ${{ github.event_name == 'push' && '--all' || '' }}
